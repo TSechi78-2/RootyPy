@@ -1,0 +1,48 @@
+{
+  "users": [
+  ],
+  "plants": [
+  ],
+  "devices": [],
+  "services": [],
+  "models": [
+    {
+      "model_code": "AA",
+      "max_lux": 10000,
+      "jar_volume":4,
+      "tank_capacity": 1.0
+    },
+    {
+      "model_code": "AB",
+      "max_lux": 11000,
+      "jar_volume":2,
+      "tank_capacity": 2.0
+    }
+  ],
+  "valid_plant_types": [
+    {
+      "type": "Foliage",
+      "DLI_goal": 4,
+      "moisture_goal": 50,
+      "moistureDecay": 0.002 
+    },
+    {
+      "type": "Flower",
+      "DLI_goal": 10,
+      "moisture_goal": 70,
+      "moistureDecay": 0.002 
+    },
+    {
+      "type": "Succulent",
+      "DLI_goal": 14,
+      "moisture_goal": 30,
+      "moistureDecay": 0.0010
+    },
+    {
+      "type": "Fruit",
+      "DLI_goal": 25,
+      "moisture_goal": 50,
+      "moistureDecay": 0.002 
+    }
+  ]
+}

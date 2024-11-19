@@ -1,0 +1,6 @@
+{
+    "port": "1883",
+    "base_topic": "RootyPy/#",
+    "broker": "mqtt.eclipseprojects.io",
+    "adaptor_url": "http://192.68.0.25:8080"
+}

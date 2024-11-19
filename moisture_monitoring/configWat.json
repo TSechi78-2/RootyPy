@@ -1,0 +1,13 @@
+{
+    "ID_moistureMonitoring": "moistureMonitoring",
+    "ID_Iamalive": "moistureMonitoring_alive",
+    "broker": "mqtt.eclipseprojects.io",
+    "port": 1883,
+    "pub_topic_moisturemonitoring": "RootyPy",
+    "sub_topics_moisturemonitoring": null,
+    "url_registry": "http://192.68.0.24:8081",
+    "pub_topic_Iamalive": "RootyPy/microservices/moistureMonitoring",
+    "sub_topic_Iamalive": null,
+    "update_time":30,
+    "alive_interval": 15
+}

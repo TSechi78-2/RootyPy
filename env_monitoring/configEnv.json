@@ -1,0 +1,11 @@
+{
+    "ID": "EnvMonitoring",
+    "broker": "mqtt.eclipseprojects.io",
+    "port": 1883,
+    "basetopic": "RootyPy",
+    "url_registry": "http://192.68.0.24:8081",
+    "url_adaptor": "http://192.68.0.25:8080",
+    "default_time":{"start":"08:00","stop":"20:00"},
+    "publishInterval":60,
+    "simMode": 1
+}

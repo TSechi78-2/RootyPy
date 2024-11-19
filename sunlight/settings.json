@@ -1,0 +1,7 @@
+{
+    "messageBroker": "mqtt.eclipseprojects.io",
+    "brokerPort": 1883, 
+    "qos": 2,
+    "registry_url": "http://192.68.0.24:8081",
+    "test": 1
+}

@@ -1,0 +1,227 @@
+version: "3"
+
+services:
+  influxdb:
+    image: influxdb:latest
+    volumes:
+      - influxdb-storage:/var/lib/influxdb2:rw
+    env_file:
+      - .env
+    entrypoint: ["./entrypoint.sh"]
+    restart: always
+    ports:
+      - ${DOCKER_INFLUXDB_INIT_PORT}:8086
+    networks:
+      net:
+        ipv4_address: 192.68.0.21
+  registry:
+    build: registry
+    volumes:
+      - registry-storage:/var/lib/registry:rw
+    ports:
+      - 8081:8081
+    restart: always
+    networks:
+      net:
+        ipv4_address: 192.68.0.24
+  adaptor:
+    build: adaptor
+    volumes:
+      - adaptor-storage:/var/lib/adaptor:rw
+    links:
+      - influxdb
+    depends_on:
+      - registry
+      - influxdb
+    ports:
+      - 8080:8080
+    restart: always
+    networks:
+      net:
+        ipv4_address: 192.68.0.25
+  moisture:
+    build: moisture
+    links:
+      - registry
+    depends_on:
+      - adaptor
+      - registry
+    restart: always
+    networks:
+      net:
+        ipv4_address: 192.68.0.26
+  sunlight:
+    build: sunlight
+    links:
+      - registry
+    depends_on:
+      - adaptor
+      - registry
+    restart: always
+    networks:
+      net:
+        ipv4_address: 192.68.0.27
+  lamplight:
+    build: lamplight
+    links:
+      - registry
+    depends_on:
+      - adaptor
+      - registry
+    restart: always
+    networks:
+      net:
+        ipv4_address: 192.68.0.30
+  light:
+    build: light
+    links:
+      - registry
+    restart: always
+    depends_on:
+      - adaptor
+      - registry
+    networks:
+      net:
+        ipv4_address: 192.68.0.31
+  tank:
+    build: tank
+    links:
+      - registry
+    restart: always
+    depends_on:
+      - adaptor
+      - registry
+    networks:
+      net:
+        ipv4_address: 192.68.0.77
+  node-red:
+    build: node-red
+    environment:
+      - TZ=Europe/Amsterdam
+    ports:
+      - "1880:1880"
+    restart: always
+    depends_on:
+      - registry
+      - adaptor
+    networks:
+      net:
+        ipv4_address: 192.68.0.28
+    volumes:
+      - node-red-data:/var/lib/node-red 
+  env_monitoring:
+    build: env_monitoring
+    volumes:
+      - env_monitoring-storage:/var/lib/env_monitoring:rw
+    links:
+      - registry
+      - adaptor
+    restart: always
+    depends_on:
+      - registry
+      - adaptor
+    networks:
+      net:
+        ipv4_address: 192.68.0.29
+  uv_light_shift:
+    build: uv_light_shift
+    volumes:
+      - uv_light_shift-storage:/var/lib/uv_light_shift:rw
+    links:
+      - registry
+      - adaptor
+    depends_on:
+      - registry
+      - adaptor
+    restart: always  
+    networks:
+      net:
+        ipv4_address: 192.68.0.32
+  telegram_bot:
+    build: telegram_bot
+    volumes:
+      - telegram_bot-storage:/var/lib/telegram_bot:rw
+    links:
+      - registry
+      - report_generator
+    depends_on:
+      - registry
+      - report_generator
+      - adaptor
+    restart: always
+    networks:
+      net:
+        ipv4_address: 192.68.0.11
+  report_generator:
+    build: report_generator
+    volumes:
+      - report_generator-storage:/var/lib/report_generator:rw
+    links:
+      - registry
+      - adaptor
+    depends_on:
+      - registry
+      - adaptor
+    restart: always
+    networks:
+      net:
+        ipv4_address: 192.68.0.33
+  moisture_monitoring:
+    build: moisture_monitoring
+    volumes:
+      - moisture_monitoring-storage:/var/lib/moisture_monitoring:rw
+    links:
+      - registry
+      - adaptor
+    depends_on:
+      - registry
+      - adaptor
+    restart: always
+    networks:
+      net:
+        ipv4_address: 192.68.0.82
+  water_irrigator:
+    build: water_irrigator
+    volumes:
+      - water_irrigator-storage:/var/lib/water_irrigator:rw
+    links:
+      - registry
+      - adaptor
+    depends_on:
+      - registry
+      - adaptor
+    restart: always
+    networks:
+      net:
+        ipv4_address: 192.68.0.20
+  watertankalert:
+    build: watertankalert
+    volumes:
+      - watertankalert-storage:/var/lib/watertankalert:rw
+    links:
+      - adaptor
+    depends_on:
+      - adaptor
+    restart: always
+    networks:
+      net:
+        ipv4_address: 192.68.0.34
+volumes:
+  grafana-storage:
+  influxdb-storage:
+  adaptor-storage:
+  registry-storage:
+  node-red-data:
+  env_monitoring-storage:
+  uv_light_shift-storage:
+  telegram_bot-storage:
+  report_generator-storage:
+  moisture_monitoring-storage:
+  water_irrigator-storage:
+  watertankalert-storage:
+networks:
+  net:
+    ipam: 
+      driver: default
+      config:
+        - subnet: "192.68.0.0/24"

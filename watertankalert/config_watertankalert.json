@@ -1,0 +1,17 @@
+{
+    "ID": "WaterTankAlert",
+    "broker": "mqtt.eclipseprojects.io",
+    "port": 1883,
+    "url_registry" : "http://192.68.0.24:8081",
+    "iamalive_topic":"RootyPy/microservices/WaterTankAlert",
+    "headers":{
+        "content-type":"application/json; charset=UTF-8"
+     },
+    "tank_interval":300,
+    "pub_topic":"RootyPy/WaterTankAlert",
+    "update_time":15,
+    "number_of_requests": 15,
+    "needed_urls": {
+        "adaptor":""
+      }
+}

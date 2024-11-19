@@ -1,0 +1,7179 @@
+[
+    {
+        "id": "075376242320f0ef",
+        "type": "tab",
+        "label": "Log in",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "785f53d943d8482e",
+        "type": "tab",
+        "label": "Plant info tab",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "d8e05e37459eb50e",
+        "type": "tab",
+        "label": "User options",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "420e20ab72977e1d",
+        "type": "tab",
+        "label": "Light_flows",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "7345f09d639edea5",
+        "type": "tab",
+        "label": "water flows",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "8fa8102ddd6213f9",
+        "type": "tab",
+        "label": "Operations about registratios",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "f2b7d1cdce5c4bfe",
+        "type": "tab",
+        "label": "Charts",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "e1bab6a23adfa149",
+        "type": "group",
+        "z": "075376242320f0ef",
+        "name": "Log in",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "d936ff1999aab9ac",
+            "ef98da3bc152d665",
+            "d4eaa710b712159f",
+            "a2575c9248f7c543",
+            "adbf2c75cb48dcfa",
+            "b3b2fc173a919a27",
+            "54d3e36a14904d1e",
+            "90d34be1bca09fc8",
+            "9291dc66265b4327",
+            "47f3a8ced08ad6a4",
+            "17d5940c01cd21a1",
+            "f76681518c8fcec5",
+            "b9f3ace8daf4efdd",
+            "ab73415461727f6e",
+            "d6305b1fa39c6fd7",
+            "69cf99c06dd2b4d0",
+            "2776a6603a21cebb",
+            "bc64e25371311bc2",
+            "45006b35b49531a3",
+            "a346b3d266193707",
+            "02177c4d978732d7",
+            "4c154482d932806f",
+            "54bd0ef8acc9e736",
+            "e915590860d77cce",
+            "1b4165490c40c1d6",
+            "5432efde2a8d6982",
+            "8159290f41537664",
+            "3688461ce0b4fb80",
+            "df58c5bceb4421cd",
+            "3c55c5bf32045f5c",
+            "b325a033e170665d",
+            "52760fe5192a6b17",
+            "1a89b1fd344d79eb",
+            "9b79f9b27d5eae08",
+            "a9e0ba359818474c",
+            "b6a70f63c6a2d291",
+            "66553be4a0784414",
+            "c987c8111d037a82",
+            "aeca84dc86ba7212",
+            "05968cffd6eb55d0",
+            "43302dd10b5655e7",
+            "46b5902210627630",
+            "d648a13e2eaf0ad5",
+            "3d34fe96cb41e340",
+            "59d92917eea4e404"
+        ],
+        "x": 14,
+        "y": 39,
+        "w": 2312,
+        "h": 722
+    },
+    {
+        "id": "da60ea094f9fae74",
+        "type": "group",
+        "z": "8fa8102ddd6213f9",
+        "name": "Check online services",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "7724a27acc619f9c",
+            "b1339271bc549447",
+            "0f3a4304daa4ba5c",
+            "ae03fc51560aae3c",
+            "497c65e39dd230d8"
+        ],
+        "x": 54,
+        "y": 619,
+        "w": 952,
+        "h": 182
+    },
+    {
+        "id": "e6c4aaa3566ad829",
+        "type": "group",
+        "z": "8fa8102ddd6213f9",
+        "name": "Register and save online services",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "1314dcec3ebab8b8",
+            "a1a60e9655d6f741",
+            "46df1d3d9b00eac4",
+            "8b51178bff4916c9",
+            "40534a3910705aae",
+            "3cdf817095039d1d",
+            "f2c2c453fc059f3f",
+            "77cc26df612d1f54",
+            "d3dd0254ee70784d",
+            "f64e64a2ef64c852",
+            "b96219db0aeefd29"
+        ],
+        "x": 44,
+        "y": 159,
+        "w": 1562,
+        "h": 262
+    },
+    {
+        "id": "1167eb289c340144",
+        "type": "group",
+        "z": "d8e05e37459eb50e",
+        "name": "Add plant",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "205746116f4c2e47",
+            "d2997b320dbc147d",
+            "a8923480b36f5932",
+            "aee5b849fa4bfac7",
+            "dd6200c65eacd514",
+            "b5f8d6462425d98d",
+            "881f8f2d6597c088",
+            "c95bca5680e5e288",
+            "ddd5fbd4061ad912",
+            "2f3bc360bc7fb70a",
+            "4b6db7c16dc843c8",
+            "5b3afc0e1e29be08",
+            "c36357bdb5531f78",
+            "aac34bcadb7ff94d",
+            "68126b66041a1b9f",
+            "e8a626f925e2d1b4",
+            "3ae00d22074667a5",
+            "f72fae14d274ddfc",
+            "9b853bd5ed23df61",
+            "e63f7e3449184563",
+            "b4ef7ff50fe64395",
+            "725d4a493984679c",
+            "9b04a441f222c5b5",
+            "d20fab234f28a810",
+            "d52ba22ad87bd43b",
+            "39a9451eda1333c1",
+            "fc73b3126d9de4a9",
+            "ded0127bd1ea067c",
+            "8990fc281601b01d",
+            "7bab5d2d56cf4653"
+        ],
+        "x": 14,
+        "y": 259,
+        "w": 2112,
+        "h": 442
+    },
+    {
+        "id": "fe9e7ffa346a55af",
+        "type": "group",
+        "z": "d8e05e37459eb50e",
+        "name": "Delete plant",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "972185aac73aa389",
+            "6283ac5c609cf6b8",
+            "f4f1ac82e233983a",
+            "b60a0b5f8bb62b28",
+            "aeedd48828e6154f",
+            "9e8083a45bdbc457",
+            "d1f8db1188c99689",
+            "9009d2fc832a6650",
+            "2923488f1268056b",
+            "4a10853dfb86da80",
+            "1061a660338c3c8b",
+            "596c6fd6b6363856",
+            "d9427fc637f97056",
+            "bf0271361f3611e3",
+            "648567d6b13c3f30",
+            "33fb36433d73acb5",
+            "e6986e9ff084f672",
+            "34b2f3e9edb87c0c",
+            "8362bfe5ede10fa6",
+            "76a9b599909d3fc8",
+            "18da918892bddce2",
+            "2f0cfd438fd87152",
+            "baceeb4063def798",
+            "65ce55230ef0af1a",
+            "08678b0a13896242",
+            "d613dabea3643ff2"
+        ],
+        "x": 34,
+        "y": 759,
+        "w": 2592,
+        "h": 262
+    },
+    {
+        "id": "ae0aa142fe4b8c55",
+        "type": "group",
+        "z": "d8e05e37459eb50e",
+        "name": "Account deletion",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "38200b3c9a499f10",
+            "ba4f1927460ba5d3",
+            "6917a559296c136b",
+            "a4f21654570ffbc1",
+            "2bb4b8523a447533",
+            "097ea17c93278929",
+            "fd272948bd036f4c",
+            "c7579521f90149a4",
+            "a1d56d1552642ef8",
+            "d00f853f7ce95464",
+            "be7763dc40d34ad8",
+            "bccb1aa841524783",
+            "b4c0554f5747405f",
+            "0864d2d36012f7a7",
+            "05462e3fba4c6eaa",
+            "0d083e036d14f5fb",
+            "553f26cc2b246d9b",
+            "9b515e7a7a54c3e7",
+            "53f52b60e7f2d3a4"
+        ],
+        "x": 14,
+        "y": 59,
+        "w": 1722,
+        "h": 202
+    },
+    {
+        "id": "fb36f2e94f5d2da4",
+        "type": "group",
+        "z": "785f53d943d8482e",
+        "name": "User options",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "24ec5c3c3b135336",
+            "8e6d26fb2626e146",
+            "b01dc798e0c2cf83",
+            "aa734ce7f3bbc633",
+            "e7f08119e945da46",
+            "9c7b06964a4ba9d6",
+            "64d2492b119c63ea",
+            "2772fb529fcf83ab",
+            "f3d07133f7eda261",
+            "4ada2e0b45349fc7",
+            "e73397e7a65b2d9c",
+            "a841450211115ca7"
+        ],
+        "x": 54,
+        "y": 559,
+        "w": 682,
+        "h": 282
+    },
+    {
+        "id": "8957198026b47e18",
+        "type": "mqtt-broker",
+        "name": "eclipse",
+        "broker": "mqtt.eclipseprojects.io",
+        "port": "1883",
+        "clientid": "Red-node",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "48688b2bd3395750",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-light",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#00cc0e",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#17c814",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "reset": false
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#0094CE",
+                    "value": "#00cc0e",
+                    "edited": true
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#00cc0e",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#fafafa",
+                    "edited": true
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#1aff29",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#ffffff",
+                    "edited": true
+                },
+                "group-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": true
+                },
+                "widget-textColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#00cc0e",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#ffffff",
+                    "edited": true
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "6eafc24cd03c3171",
+        "type": "ui_tab",
+        "name": "Access",
+        "icon": "fa-users",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "363a57f6eb311ab9",
+        "type": "ui_tab",
+        "name": "Plant status",
+        "icon": "dashboard",
+        "order": 3,
+        "disabled": false,
+        "hidden": true
+    },
+    {
+        "id": "b6795e559d1e41a6",
+        "type": "ui_group",
+        "name": "Water info",
+        "tab": "363a57f6eb311ab9",
+        "order": 3,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "43a5a58f83248d8e",
+        "type": "ui_group",
+        "name": "Lamp info",
+        "tab": "363a57f6eb311ab9",
+        "order": 4,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "6d7fed1744c73108",
+        "type": "ui_group",
+        "name": "Log in form",
+        "tab": "6eafc24cd03c3171",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "dbbed62931a3f420",
+        "type": "ui_tab",
+        "name": "Registration",
+        "icon": "dashboard",
+        "order": 2,
+        "disabled": false,
+        "hidden": true
+    },
+    {
+        "id": "47a1019f02139280",
+        "type": "ui_group",
+        "name": "Registration",
+        "tab": "dbbed62931a3f420",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "c846bf76c8606a05",
+        "type": "ui_group",
+        "name": "User option",
+        "tab": "363a57f6eb311ab9",
+        "order": 1,
+        "disp": true,
+        "width": 5,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "c243bfe85c6ab65f",
+        "type": "ui_tab",
+        "name": "Plant registration",
+        "icon": "dashboard",
+        "order": 4,
+        "disabled": false,
+        "hidden": true
+    },
+    {
+        "id": "a82a07a6313512b6",
+        "type": "ui_group",
+        "name": "ask for plant info",
+        "tab": "c243bfe85c6ab65f",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "7878e3a866e9f281",
+        "type": "ui_tab",
+        "name": "Plant deletion",
+        "icon": "dashboard",
+        "order": 5,
+        "disabled": false,
+        "hidden": true
+    },
+    {
+        "id": "2a8f5bc0a956d188",
+        "type": "ui_group",
+        "name": "form",
+        "tab": "7878e3a866e9f281",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "a016faa19b5c5a46",
+        "type": "ui_spacer",
+        "z": "785f53d943d8482e",
+        "name": "spacer",
+        "group": "a82a07a6313512b6",
+        "order": 4,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "4c5a3a7217d2da98",
+        "type": "ui_spacer",
+        "z": "785f53d943d8482e",
+        "name": "spacer",
+        "group": "2a8f5bc0a956d188",
+        "order": 2,
+        "width": "6",
+        "height": "1"
+    },
+    {
+        "id": "b13c842165b97de9",
+        "type": "ui_group",
+        "name": "Plant statistics",
+        "tab": "363a57f6eb311ab9",
+        "order": 6,
+        "disp": true,
+        "width": "10",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "b1059a1aeaab637d",
+        "type": "ui_spacer",
+        "z": "785f53d943d8482e",
+        "name": "spacer",
+        "group": "6d7fed1744c73108",
+        "order": 3,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "ee82cd4a79445418",
+        "type": "ui_spacer",
+        "z": "785f53d943d8482e",
+        "name": "spacer",
+        "group": "6d7fed1744c73108",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "15064130afb327b1",
+        "type": "ui_spacer",
+        "z": "420e20ab72977e1d",
+        "name": "spacer",
+        "group": "b6795e559d1e41a6",
+        "order": 4,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "fb12e1bc5a1b47af",
+        "type": "ui_spacer",
+        "z": "420e20ab72977e1d",
+        "name": "spacer",
+        "group": "b6795e559d1e41a6",
+        "order": 6,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "4cb6585846f5c1f7",
+        "type": "ui_spacer",
+        "z": "420e20ab72977e1d",
+        "name": "spacer",
+        "group": "43a5a58f83248d8e",
+        "order": 13,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "918d9b0d0903efe7",
+        "type": "ui_spacer",
+        "z": "420e20ab72977e1d",
+        "name": "spacer",
+        "group": "43a5a58f83248d8e",
+        "order": 15,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "47d971684c51b6fc",
+        "type": "comment",
+        "z": "075376242320f0ef",
+        "name": "",
+        "info": "Manca da fare la parte dei grafici e da gestire il cambio utente.\nImplementare log in",
+        "x": 120,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "d936ff1999aab9ac",
+        "type": "ui_form",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "",
+        "label": "Sign in",
+        "group": "6d7fed1744c73108",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "options": [
+            {
+                "label": "user",
+                "value": "usr",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "password",
+                "value": "pwd",
+                "type": "password",
+                "required": true,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "usr": "",
+            "pwd": ""
+        },
+        "payload": "",
+        "submit": "Login",
+        "cancel": "Cancel",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": false,
+        "className": "",
+        "x": 110,
+        "y": 220,
+        "wires": [
+            [
+                "a2575c9248f7c543",
+                "17d5940c01cd21a1",
+                "d648a13e2eaf0ad5"
+            ]
+        ]
+    },
+    {
+        "id": "ef98da3bc152d665",
+        "type": "python3-function",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "Access function",
+        "func": "#deve vedere se il nome inserito è nella lista utenti\nsubbed_users=msg['payload']\npot_user=msg['user']\npot_user_name=pot_user['usr']\npot_user_pwd=pot_user['pwd']\nresult=0\n\nfor user in subbed_users:\n    username=user['userId']\n    \n    \n    if username==pot_user_name:\n        password=user['password']\n        if password == pot_user_pwd:\n            result=1\n            msg['payload']={'username':pot_user_name,'plants':user['plants']}\n        break\n\n    \nmsg['result']=result\n\n\n\nreturn msg",
+        "outputs": 1,
+        "x": 820,
+        "y": 220,
+        "wires": [
+            [
+                "90d34be1bca09fc8",
+                "b9f3ace8daf4efdd"
+            ]
+        ]
+    },
+    {
+        "id": "d4eaa710b712159f",
+        "type": "python3-function",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "Register function",
+        "func": "\ninformation=msg['payload']\n\nusr=information['usr']\npwd=information['pwd']\ncpwd=information['cpwd']\nspecial_characters = {' ', ':', '/', ';', ',', '\"', \"'\",\"{\",\"}\",\"[\",\"]\"}\nresult=0\nif pwd!=cpwd:\n    result=1 #pwd e cpwd non combaciano\n    msg['payload']=f\"There are password inputs inconsistencies:Please try again\"\nelif any(char in special_characters for char in usr):\n    msg['payload']=f\"user or password cannot contain the following: {special_characters}\"\n    result=2\nelif any(char in special_characters for char in pwd):\n    msg['payload']=f\"user or password cannot contain the following: {special_characters}\"\n    result=2\n\n    \nmsg['result']=result\nif result <1:\n    msg['payload']={'userId':usr,'password':pwd}        \n \n\n\n\n\nreturn msg\n",
+        "outputs": 1,
+        "x": 290,
+        "y": 600,
+        "wires": [
+            [
+                "5432efde2a8d6982"
+            ]
+        ]
+    },
+    {
+        "id": "a2575c9248f7c543",
+        "type": "debug",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "Show choice",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 290,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "adbf2c75cb48dcfa",
+        "type": "http request",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "Http req users",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 620,
+        "y": 120,
+        "wires": [
+            [
+                "b3b2fc173a919a27",
+                "aeca84dc86ba7212"
+            ]
+        ]
+    },
+    {
+        "id": "b3b2fc173a919a27",
+        "type": "debug",
+        "z": "075376242320f0ef",
+        "d": true,
+        "g": "e1bab6a23adfa149",
+        "name": "Show response",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 820,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "54d3e36a14904d1e",
+        "type": "ui_button",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "Registartion button",
+        "group": "6d7fed1744c73108",
+        "order": 4,
+        "width": 4,
+        "height": 1,
+        "passthru": false,
+        "label": "Register",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "fa-pencil-square-o",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 130,
+        "y": 500,
+        "wires": [
+            [
+                "4c154482d932806f"
+            ]
+        ]
+    },
+    {
+        "id": "90d34be1bca09fc8",
+        "type": "switch",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "Present/notPresent",
+        "property": "result",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            },
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1030,
+        "y": 220,
+        "wires": [
+            [
+                "ab73415461727f6e",
+                "69cf99c06dd2b4d0"
+            ],
+            [
+                "2776a6603a21cebb"
+            ]
+        ]
+    },
+    {
+        "id": "9291dc66265b4327",
+        "type": "ui_toast",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "User not found",
+        "x": 1560,
+        "y": 340,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "47f3a8ced08ad6a4",
+        "type": "http request",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 810,
+        "y": 320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "17d5940c01cd21a1",
+        "type": "change",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "user",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 290,
+        "y": 220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f76681518c8fcec5",
+        "type": "debug",
+        "z": "075376242320f0ef",
+        "d": true,
+        "g": "e1bab6a23adfa149",
+        "name": "debug 8",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1020,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "b9f3ace8daf4efdd",
+        "type": "debug",
+        "z": "075376242320f0ef",
+        "d": true,
+        "g": "e1bab6a23adfa149",
+        "name": "debug 10",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "result",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1000,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "ab73415461727f6e",
+        "type": "change",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "user",
+                "pt": "global",
+                "to": "user.usr",
+                "tot": "flow"
+            },
+            {
+                "t": "set",
+                "p": "plants",
+                "pt": "global",
+                "to": "payload.plants",
+                "tot": "msg"
+            },
+            {
+                "t": "delete",
+                "p": "user",
+                "pt": "flow"
+            },
+            {
+                "t": "delete",
+                "p": "user",
+                "pt": "flow"
+            },
+            {
+                "t": "delete",
+                "p": "payload.plants",
+                "pt": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1320,
+        "y": 200,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d6305b1fa39c6fd7",
+        "type": "ui_toast",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "Welcome to Rootypy",
+        "x": 1520,
+        "y": 120,
+        "wires": [
+            [
+                "45006b35b49531a3"
+            ]
+        ]
+    },
+    {
+        "id": "69cf99c06dd2b4d0",
+        "type": "python3-function",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "User found mess",
+        "func": "user=msg['payload']['username']\nmsg['payload']=f\"Welcome to Rootypy {user}\"\nreturn msg",
+        "outputs": 1,
+        "x": 1290,
+        "y": 120,
+        "wires": [
+            [
+                "d6305b1fa39c6fd7"
+            ]
+        ]
+    },
+    {
+        "id": "2776a6603a21cebb",
+        "type": "python3-function",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "User not found mess",
+        "func": "msg['payload']=f\"Username or password NOT found:\\nPlease try again\"\nreturn msg\n",
+        "outputs": 1,
+        "x": 1280,
+        "y": 340,
+        "wires": [
+            [
+                "9291dc66265b4327"
+            ]
+        ]
+    },
+    {
+        "id": "bc64e25371311bc2",
+        "type": "ui_text",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "group": "6d7fed1744c73108",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "New to RootyPy?",
+        "format": "",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "24",
+        "color": "#000000",
+        "x": 130,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "45006b35b49531a3",
+        "type": "function",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "Change tab to user tab",
+        "func": "msg['payload']={'tab': 'Plant status',\n    \"tabs\": {\n        \"hide\": 'Access',\n        \"show\": 'Plant status'\n    }}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1760,
+        "y": 120,
+        "wires": [
+            [
+                "a346b3d266193707"
+            ]
+        ]
+    },
+    {
+        "id": "a346b3d266193707",
+        "type": "ui_ui_control",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "",
+        "events": "change",
+        "x": 1960,
+        "y": 120,
+        "wires": [
+            [
+                "02177c4d978732d7"
+            ]
+        ]
+    },
+    {
+        "id": "02177c4d978732d7",
+        "type": "link out",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "link out 1",
+        "mode": "link",
+        "links": [
+            "3fc5788391be0480"
+        ],
+        "x": 2085,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "4c154482d932806f",
+        "type": "python3-function",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "Hide login/show register",
+        "func": "msg['payload']={'tab': 'Registration',\n    \"tabs\": {\n        \"hide\": 'Access',\n        \"show\": 'Registration'\n    }}\nreturn msg;\n",
+        "outputs": 1,
+        "x": 370,
+        "y": 500,
+        "wires": [
+            [
+                "e915590860d77cce"
+            ]
+        ]
+    },
+    {
+        "id": "54bd0ef8acc9e736",
+        "type": "ui_form",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "Log in form",
+        "label": "",
+        "group": "47a1019f02139280",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "options": [
+            {
+                "label": "username",
+                "value": "usr",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "password",
+                "value": "pwd",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "confirm password",
+                "value": "cpwd",
+                "type": "text",
+                "required": true,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "usr": "",
+            "pwd": "",
+            "cpwd": ""
+        },
+        "payload": "",
+        "submit": "submit",
+        "cancel": "cancel",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": "",
+        "className": "",
+        "x": 110,
+        "y": 600,
+        "wires": [
+            [
+                "d4eaa710b712159f"
+            ]
+        ]
+    },
+    {
+        "id": "e915590860d77cce",
+        "type": "ui_ui_control",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "",
+        "events": "all",
+        "x": 580,
+        "y": 500,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1b4165490c40c1d6",
+        "type": "ui_text",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "group": "47a1019f02139280",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "Instruction reg",
+        "label": "Please fill the required fields",
+        "format": "",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 120,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "5432efde2a8d6982",
+        "type": "switch",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "",
+        "property": "result",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            },
+            {
+                "t": "eq",
+                "v": "2",
+                "vt": "num"
+            },
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 3,
+        "x": 450,
+        "y": 600,
+        "wires": [
+            [
+                "8159290f41537664"
+            ],
+            [
+                "df58c5bceb4421cd"
+            ],
+            [
+                "59d92917eea4e404"
+            ]
+        ]
+    },
+    {
+        "id": "8159290f41537664",
+        "type": "ui_toast",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "Pwd inconsistencies",
+        "x": 660,
+        "y": 560,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3688461ce0b4fb80",
+        "type": "python3-function",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "Request subscription",
+        "func": "username=msg['payload']['userId']\npassword=msg['payload']['password']\nmsg['url']=msg['url']+'/addu'\nmsg['payload']={ 'userId': username, 'password': password,\"chatID\":None}\nreturn msg\n",
+        "outputs": 1,
+        "x": 840,
+        "y": 640,
+        "wires": [
+            [
+                "3c55c5bf32045f5c"
+            ]
+        ]
+    },
+    {
+        "id": "df58c5bceb4421cd",
+        "type": "ui_toast",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "User taken",
+        "x": 630,
+        "y": 600,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3c55c5bf32045f5c",
+        "type": "http request",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "addUser",
+        "method": "POST",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 1040,
+        "y": 640,
+        "wires": [
+            [
+                "b325a033e170665d",
+                "9b79f9b27d5eae08"
+            ]
+        ]
+    },
+    {
+        "id": "b325a033e170665d",
+        "type": "debug",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "debug 12",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1220,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "52760fe5192a6b17",
+        "type": "ui_toast",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "Completed registration",
+        "x": 1780,
+        "y": 600,
+        "wires": [
+            [
+                "a9e0ba359818474c"
+            ]
+        ]
+    },
+    {
+        "id": "1a89b1fd344d79eb",
+        "type": "python3-function",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "Mess complete registration",
+        "func": "msg['payload']=f\"Registration complete\"\nreturn msg\n",
+        "outputs": 1,
+        "x": 1520,
+        "y": 600,
+        "wires": [
+            [
+                "52760fe5192a6b17"
+            ]
+        ]
+    },
+    {
+        "id": "9b79f9b27d5eae08",
+        "type": "switch",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "Response add user",
+        "property": "payload.status",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "OK",
+                "vt": "str"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1270,
+        "y": 640,
+        "wires": [
+            [
+                "1a89b1fd344d79eb"
+            ],
+            [
+                "66553be4a0784414"
+            ]
+        ]
+    },
+    {
+        "id": "a9e0ba359818474c",
+        "type": "function",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "Change tab to user tab",
+        "func": "msg['payload']={'tab': 'Access',\n    \"tabs\": {\n        \"hide\": 'Registration',\n        \"show\": 'Access'\n    }}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2040,
+        "y": 600,
+        "wires": [
+            [
+                "b6a70f63c6a2d291"
+            ]
+        ]
+    },
+    {
+        "id": "b6a70f63c6a2d291",
+        "type": "ui_ui_control",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "",
+        "events": "all",
+        "x": 2240,
+        "y": 600,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "66553be4a0784414",
+        "type": "python3-function",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "Mess user name already present",
+        "func": "msg['payload']=f\"Username was already taken. Please try with a different name\"\nreturn msg\n",
+        "outputs": 1,
+        "x": 1540,
+        "y": 680,
+        "wires": [
+            [
+                "c987c8111d037a82"
+            ]
+        ]
+    },
+    {
+        "id": "c987c8111d037a82",
+        "type": "ui_toast",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "User already taken",
+        "x": 1810,
+        "y": 680,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "aeca84dc86ba7212",
+        "type": "function",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "Fetch current user",
+        "func": "msg.user = flow.get(\"user\");\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 830,
+        "y": 160,
+        "wires": [
+            [
+                "ef98da3bc152d665",
+                "f76681518c8fcec5"
+            ]
+        ]
+    },
+    {
+        "id": "05968cffd6eb55d0",
+        "type": "ui_button",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "",
+        "group": "47a1019f02139280",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Back",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "fa-arrow-left",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 110,
+        "y": 680,
+        "wires": [
+            [
+                "43302dd10b5655e7"
+            ]
+        ]
+    },
+    {
+        "id": "43302dd10b5655e7",
+        "type": "python3-function",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "Exit page",
+        "func": "msg['payload']={'tab': 'Access',\n    \"tabs\": {\n        \"hide\": 'Registration',\n        \"show\": 'Access'\n    }}\nreturn msg;",
+        "outputs": 1,
+        "x": 260,
+        "y": 680,
+        "wires": [
+            [
+                "46b5902210627630"
+            ]
+        ]
+    },
+    {
+        "id": "46b5902210627630",
+        "type": "ui_ui_control",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "Return to log in",
+        "events": "change",
+        "x": 440,
+        "y": 680,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d648a13e2eaf0ad5",
+        "type": "change",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "url",
+                "pt": "msg",
+                "to": "settings.settings.url_registry",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 230,
+        "y": 120,
+        "wires": [
+            [
+                "3d34fe96cb41e340"
+            ]
+        ]
+    },
+    {
+        "id": "3d34fe96cb41e340",
+        "type": "python3-function",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "Req users",
+        "func": "msg['url']=msg['url']+'/users'\nreturn msg",
+        "outputs": 1,
+        "x": 410,
+        "y": 120,
+        "wires": [
+            [
+                "adbf2c75cb48dcfa"
+            ]
+        ]
+    },
+    {
+        "id": "59d92917eea4e404",
+        "type": "change",
+        "z": "075376242320f0ef",
+        "g": "e1bab6a23adfa149",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "url",
+                "pt": "msg",
+                "to": "settings.settings.url_registry",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 630,
+        "y": 640,
+        "wires": [
+            [
+                "3688461ce0b4fb80",
+                "b325a033e170665d"
+            ]
+        ]
+    },
+    {
+        "id": "a6f7dab877c8d216",
+        "type": "python3-function",
+        "z": "785f53d943d8482e",
+        "name": "Show first",
+        "func": "import json\n\noption=msg['options']\nuser=msg['user']\nif len(option)>0:\n    first_option=option[0]\n    msg['text']=first_option\n    #for measurament in possMeasures:\n    #richiedo l'umidità per ora\n    msg['choice']=first_option\n    #msg['url']=f\"http://192.68.0.25:8080/getData/{user}/{first_option}?measurament=humidity&duration=1\"\nelse:\n    msg['choice']=\"\"\nreturn msg\n",
+        "outputs": 1,
+        "x": 820,
+        "y": 360,
+        "wires": [
+            [
+                "5813fc16fe9cb96e",
+                "c8eea8aa3cf00822"
+            ]
+        ]
+    },
+    {
+        "id": "908a782865cce0a7",
+        "type": "python3-function",
+        "z": "785f53d943d8482e",
+        "name": "Choice manager",
+        "func": "import json\nchoice=msg['payload']\nmsg['text']=choice\nmsg['choice']=choice\nreturn msg",
+        "outputs": 1,
+        "x": 1020,
+        "y": 300,
+        "wires": [
+            [
+                "5813fc16fe9cb96e",
+                "c8eea8aa3cf00822"
+            ]
+        ]
+    },
+    {
+        "id": "d8c72c05911f0862",
+        "type": "ui_dropdown",
+        "z": "785f53d943d8482e",
+        "name": "",
+        "label": "Plant list",
+        "tooltip": "",
+        "place": "Select plant",
+        "group": "c846bf76c8606a05",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "multiple": false,
+        "options": [],
+        "payload": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "className": "",
+        "x": 820,
+        "y": 300,
+        "wires": [
+            [
+                "908a782865cce0a7"
+            ]
+        ]
+    },
+    {
+        "id": "9250c5e5ac7e3051",
+        "type": "python3-function",
+        "z": "785f53d943d8482e",
+        "name": "Read users plants",
+        "func": "\nuser = msg.get('user')\nplants = msg.get(\"payload\", [])\n\n\nmsg['options'] = []\nmsg['plants'] = []\nmsg['noPlants']=0\n\nfor plant in plants:\n\n    if 'userId' in plant and 'plantId' in plant and 'plantCode' in plant:\n        # Extract the ID and CODE from the plant dictionary\n        ID = plant['plantId']\n        CODE = plant['plantCode']\n        \n        \n        if plant['userId'] == user:\n            msg['options'].append(ID)\n            msg['plants'].append(plant)\nif len(msg['plants'])==0:\n    msg['noPlants']=1\n\nreturn msg\n\n    \n",
+        "outputs": 1,
+        "x": 490,
+        "y": 260,
+        "wires": [
+            [
+                "5c84c44701bb62c5",
+                "2e1aed2981aeef32"
+            ]
+        ]
+    },
+    {
+        "id": "9f0ce9f9a58de20d",
+        "type": "debug",
+        "z": "785f53d943d8482e",
+        "name": "debug 6",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 860,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "5813fc16fe9cb96e",
+        "type": "ui_text",
+        "z": "785f53d943d8482e",
+        "group": "c846bf76c8606a05",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Showing:",
+        "format": "{{msg.text}}",
+        "layout": "row-left",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1280,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "3703f643425bb130",
+        "type": "function",
+        "z": "785f53d943d8482e",
+        "name": "UserFetcher",
+        "func": "msg.user = global.get(\"user\");\n//msg.plants=global.get(\"plants\")\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 310,
+        "y": 260,
+        "wires": [
+            [
+                "e51ba9d7d72048d2",
+                "9250c5e5ac7e3051"
+            ]
+        ]
+    },
+    {
+        "id": "c8eea8aa3cf00822",
+        "type": "function",
+        "z": "785f53d943d8482e",
+        "name": "PlantUserFetch",
+        "func": "msg.plants = global.get(\"plants\");\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1260,
+        "y": 300,
+        "wires": [
+            [
+                "719c5010aa1cc4c5"
+            ]
+        ]
+    },
+    {
+        "id": "3fc5788391be0480",
+        "type": "link in",
+        "z": "785f53d943d8482e",
+        "name": "To plant log",
+        "links": [
+            "02177c4d978732d7",
+            "648567d6b13c3f30"
+        ],
+        "x": 205,
+        "y": 40,
+        "wires": [
+            [
+                "890463be03cb6168"
+            ]
+        ]
+    },
+    {
+        "id": "e51ba9d7d72048d2",
+        "type": "ui_text",
+        "z": "785f53d943d8482e",
+        "group": "c846bf76c8606a05",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "Display username",
+        "label": "User:",
+        "format": "{{msg.user}}",
+        "layout": "row-left",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 490,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "2e1aed2981aeef32",
+        "type": "debug",
+        "z": "785f53d943d8482e",
+        "name": "debug 16",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 480,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "8951968a0b682fbf",
+        "type": "change",
+        "z": "785f53d943d8482e",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "selected_plant",
+                "pt": "global",
+                "to": "selected_plant",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "url",
+                "pt": "msg",
+                "to": "settings.settings.url_registry",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "choice",
+                "pt": "global",
+                "to": "choice",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1820,
+        "y": 300,
+        "wires": [
+            [
+                "ec8467ddc25d19fa",
+                "26303b619ff2969e",
+                "26516ead26b4b223"
+            ]
+        ]
+    },
+    {
+        "id": "ec8467ddc25d19fa",
+        "type": "debug",
+        "z": "785f53d943d8482e",
+        "name": "debug 22",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1760,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "24ec5c3c3b135336",
+        "type": "ui_button",
+        "z": "785f53d943d8482e",
+        "g": "fb36f2e94f5d2da4",
+        "name": "Esc",
+        "group": "c846bf76c8606a05",
+        "order": 9,
+        "width": 5,
+        "height": 1,
+        "passthru": false,
+        "label": "Log out",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "fa-arrow-left",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 150,
+        "y": 600,
+        "wires": [
+            [
+                "8e6d26fb2626e146"
+            ]
+        ]
+    },
+    {
+        "id": "8e6d26fb2626e146",
+        "type": "python3-function",
+        "z": "785f53d943d8482e",
+        "g": "fb36f2e94f5d2da4",
+        "name": "Exit page",
+        "func": "msg['payload']={'tab': 'Access',\n    \"tabs\": {\n        \"hide\": 'Plant status',\n        \"show\": 'Access'\n    }}\nreturn msg;",
+        "outputs": 1,
+        "x": 300,
+        "y": 600,
+        "wires": [
+            [
+                "b01dc798e0c2cf83",
+                "aa734ce7f3bbc633"
+            ]
+        ]
+    },
+    {
+        "id": "b01dc798e0c2cf83",
+        "type": "ui_ui_control",
+        "z": "785f53d943d8482e",
+        "g": "fb36f2e94f5d2da4",
+        "name": "Return to log in",
+        "events": "change",
+        "x": 500,
+        "y": 600,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "aa734ce7f3bbc633",
+        "type": "change",
+        "z": "785f53d943d8482e",
+        "g": "fb36f2e94f5d2da4",
+        "name": "Forget current info",
+        "rules": [
+            {
+                "t": "delete",
+                "p": "user",
+                "pt": "global"
+            },
+            {
+                "t": "delete",
+                "p": "choice",
+                "pt": "global"
+            },
+            {
+                "t": "delete",
+                "p": "plants",
+                "pt": "global"
+            },
+            {
+                "t": "delete",
+                "p": "online_devices",
+                "pt": "global"
+            },
+            {
+                "t": "delete",
+                "p": "selected_plant",
+                "pt": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 510,
+        "y": 660,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e7f08119e945da46",
+        "type": "ui_button",
+        "z": "785f53d943d8482e",
+        "g": "fb36f2e94f5d2da4",
+        "name": "Add new plant",
+        "group": "c846bf76c8606a05",
+        "order": 5,
+        "width": 5,
+        "height": 1,
+        "passthru": false,
+        "label": "Add new plant",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "fa-leaf",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 160,
+        "y": 740,
+        "wires": [
+            [
+                "9c7b06964a4ba9d6"
+            ]
+        ]
+    },
+    {
+        "id": "9c7b06964a4ba9d6",
+        "type": "python3-function",
+        "z": "785f53d943d8482e",
+        "g": "fb36f2e94f5d2da4",
+        "name": "Go to registration form",
+        "func": "msg['payload']={'tab': 'Plant registration',\n    \"tabs\": {\n        \"hide\": 'Plant status',\n        \"show\": 'Plant registration'\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "x": 380,
+        "y": 740,
+        "wires": [
+            [
+                "64d2492b119c63ea"
+            ]
+        ]
+    },
+    {
+        "id": "64d2492b119c63ea",
+        "type": "ui_ui_control",
+        "z": "785f53d943d8482e",
+        "g": "fb36f2e94f5d2da4",
+        "name": "",
+        "events": "change",
+        "x": 580,
+        "y": 740,
+        "wires": [
+            [
+                "a841450211115ca7"
+            ]
+        ]
+    },
+    {
+        "id": "f3d07133f7eda261",
+        "type": "ui_button",
+        "z": "785f53d943d8482e",
+        "g": "fb36f2e94f5d2da4",
+        "name": "Delete plant",
+        "group": "c846bf76c8606a05",
+        "order": 6,
+        "width": 5,
+        "height": 1,
+        "passthru": false,
+        "label": "Delete plant",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "fa-trash-o",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 150,
+        "y": 800,
+        "wires": [
+            [
+                "2772fb529fcf83ab"
+            ]
+        ]
+    },
+    {
+        "id": "2772fb529fcf83ab",
+        "type": "python3-function",
+        "z": "785f53d943d8482e",
+        "g": "fb36f2e94f5d2da4",
+        "name": "Go to registration form",
+        "func": "msg['payload']={'tab': 'Plant deletion',\n    \"tabs\": {\n        \"hide\": 'Plant status',\n        \"show\": 'Plant deletion'\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "x": 360,
+        "y": 800,
+        "wires": [
+            [
+                "4ada2e0b45349fc7"
+            ]
+        ]
+    },
+    {
+        "id": "4ada2e0b45349fc7",
+        "type": "ui_ui_control",
+        "z": "785f53d943d8482e",
+        "g": "fb36f2e94f5d2da4",
+        "name": "",
+        "events": "change",
+        "x": 580,
+        "y": 800,
+        "wires": [
+            [
+                "e73397e7a65b2d9c"
+            ]
+        ]
+    },
+    {
+        "id": "e73397e7a65b2d9c",
+        "type": "link out",
+        "z": "785f53d943d8482e",
+        "g": "fb36f2e94f5d2da4",
+        "name": "Deletion button",
+        "mode": "link",
+        "links": [
+            "76a9b599909d3fc8"
+        ],
+        "x": 695,
+        "y": 800,
+        "wires": []
+    },
+    {
+        "id": "516632a2a2b54cbe",
+        "type": "http request",
+        "z": "785f53d943d8482e",
+        "name": "Req plants",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 130,
+        "y": 260,
+        "wires": [
+            [
+                "3703f643425bb130"
+            ]
+        ]
+    },
+    {
+        "id": "80ecaf75183b5b7e",
+        "type": "change",
+        "z": "785f53d943d8482e",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "plants",
+                "pt": "global",
+                "to": "plants",
+                "tot": "msg"
+            },
+            {
+                "t": "delete",
+                "p": "noPlants",
+                "pt": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 840,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "719c5010aa1cc4c5",
+        "type": "python3-function",
+        "z": "785f53d943d8482e",
+        "name": "Retrive selected plant info",
+        "func": "choice=msg['choice']\nplants=msg['plants']\n\nfor plant in plants:\n    if plant['plantId']==choice:\n        msg['selected_plant']=plant\nreturn msg",
+        "outputs": 1,
+        "x": 1490,
+        "y": 300,
+        "wires": [
+            [
+                "8951968a0b682fbf",
+                "fa04f0f9893bbf3e"
+            ]
+        ]
+    },
+    {
+        "id": "5e3ae2132d1e778b",
+        "type": "link out",
+        "z": "785f53d943d8482e",
+        "name": "Selecting plant",
+        "mode": "link",
+        "links": [
+            "40a31a1f8b6051d8",
+            "8fb57b83c5e956ab"
+        ],
+        "x": 3215,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "c35503890140b023",
+        "type": "http request",
+        "z": "785f53d943d8482e",
+        "name": "Req online devices",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 2290,
+        "y": 300,
+        "wires": [
+            [
+                "d92f8c29ead70dec",
+                "8d64052a2d1721b5"
+            ]
+        ]
+    },
+    {
+        "id": "a2ee4081a04ec4f2",
+        "type": "python3-function",
+        "z": "785f53d943d8482e",
+        "name": "Find current plant devices",
+        "func": "online_dev=msg.get('payload')\nsel_plant=msg.get('selected_plant')\ncurrent_plant_online_dev=[]\nfor dev in online_dev:\n    plant_code,dev_type = dev['deviceID'].split('/')\n    if plant_code==sel_plant['plantCode']:\n        current_plant_online_dev.append(dev_type)\n\n\nmsg[\"devices_online\"]=current_plant_online_dev\nreturn msg",
+        "outputs": 1,
+        "x": 2810,
+        "y": 300,
+        "wires": [
+            [
+                "dc0762c756b8de05"
+            ]
+        ]
+    },
+    {
+        "id": "d92f8c29ead70dec",
+        "type": "change",
+        "z": "785f53d943d8482e",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "selected_plant",
+                "pt": "msg",
+                "to": "selected_plant",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2540,
+        "y": 300,
+        "wires": [
+            [
+                "a2ee4081a04ec4f2",
+                "8d64052a2d1721b5"
+            ]
+        ]
+    },
+    {
+        "id": "890463be03cb6168",
+        "type": "change",
+        "z": "785f53d943d8482e",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "url",
+                "pt": "msg",
+                "to": "settings.settings.url_registry",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 170,
+        "y": 100,
+        "wires": [
+            [
+                "b960cd3fce75fc43"
+            ]
+        ]
+    },
+    {
+        "id": "b960cd3fce75fc43",
+        "type": "python3-function",
+        "z": "785f53d943d8482e",
+        "name": "req plants",
+        "func": "msg['url']=msg['url']+\"/plants\"\nreturn msg",
+        "outputs": 1,
+        "x": 120,
+        "y": 180,
+        "wires": [
+            [
+                "516632a2a2b54cbe"
+            ]
+        ]
+    },
+    {
+        "id": "8d64052a2d1721b5",
+        "type": "debug",
+        "z": "785f53d943d8482e",
+        "name": "debug 36",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 2520,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "a841450211115ca7",
+        "type": "link out",
+        "z": "785f53d943d8482e",
+        "g": "fb36f2e94f5d2da4",
+        "name": "From add new plant button",
+        "mode": "link",
+        "links": [
+            "39a9451eda1333c1"
+        ],
+        "x": 695,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "26303b619ff2969e",
+        "type": "python3-function",
+        "z": "785f53d943d8482e",
+        "name": "url for devices",
+        "func": "msg['url']=msg['url']+\"/devices\"\nreturn msg;\nreturn msg",
+        "outputs": 1,
+        "x": 2080,
+        "y": 300,
+        "wires": [
+            [
+                "c35503890140b023"
+            ]
+        ]
+    },
+    {
+        "id": "26516ead26b4b223",
+        "type": "link out",
+        "z": "785f53d943d8482e",
+        "name": "From selected plant",
+        "mode": "link",
+        "links": [
+            "fb1f65509cefabf3",
+            "1f61b805bc6bcfac"
+        ],
+        "x": 1925,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "5c84c44701bb62c5",
+        "type": "switch",
+        "z": "785f53d943d8482e",
+        "name": "",
+        "property": "noPlants",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 650,
+        "y": 260,
+        "wires": [
+            [],
+            [
+                "80ecaf75183b5b7e",
+                "d8c72c05911f0862",
+                "a6f7dab877c8d216"
+            ]
+        ]
+    },
+    {
+        "id": "538666853aa761af",
+        "type": "ui_button",
+        "z": "785f53d943d8482e",
+        "name": "Refresh",
+        "group": "c846bf76c8606a05",
+        "order": 8,
+        "width": 5,
+        "height": 1,
+        "passthru": false,
+        "label": "Refresh",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "fa-refresh",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 740,
+        "y": 140,
+        "wires": [
+            [
+                "5ef3ae51b23c9b5a"
+            ]
+        ]
+    },
+    {
+        "id": "c138598e6bb2c9f8",
+        "type": "link in",
+        "z": "785f53d943d8482e",
+        "name": "To refresh",
+        "links": [
+            "4ceec963bc87e85e",
+            "d5129feb0f116564"
+        ],
+        "x": 875,
+        "y": 80,
+        "wires": [
+            [
+                "5ef3ae51b23c9b5a"
+            ]
+        ]
+    },
+    {
+        "id": "dc0762c756b8de05",
+        "type": "change",
+        "z": "785f53d943d8482e",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "selected_plant",
+                "pt": "msg",
+                "to": "selected_plant",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "settings",
+                "pt": "msg",
+                "to": "settings",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "services_online",
+                "pt": "msg",
+                "to": "services_online",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "devices_online",
+                "pt": "global",
+                "to": "devices_online",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 3040,
+        "y": 300,
+        "wires": [
+            [
+                "5e3ae2132d1e778b"
+            ]
+        ]
+    },
+    {
+        "id": "fa04f0f9893bbf3e",
+        "type": "ui_text",
+        "z": "785f53d943d8482e",
+        "group": "c846bf76c8606a05",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Plant type:",
+        "format": "{{msg.selected_plant.type}}",
+        "layout": "row-left",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1750,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "b71d9070a0f6399f",
+        "type": "python3-function",
+        "z": "785f53d943d8482e",
+        "name": "Read users plants",
+        "func": "\nuser = msg.get('user')\nplants = msg.get(\"payload\", [])\n\n\nmsg['options'] = []\nmsg['plants'] = []\nmsg['noPlants']=0\n\nfor plant in plants:\n\n    if 'userId' in plant and 'plantId' in plant and 'plantCode' in plant:\n        # Extract the ID and CODE from the plant dictionary\n        ID = plant['plantId']\n        CODE = plant['plantCode']\n        \n        \n        if plant['userId'] == user:\n            msg['options'].append(ID)\n            msg['plants'].append(plant)\nif len(msg['plants'])==0:\n    msg['noPlants']=1\n\nreturn msg\n\n    \n",
+        "outputs": 1,
+        "x": 1530,
+        "y": 220,
+        "wires": [
+            [
+                "719c5010aa1cc4c5"
+            ]
+        ]
+    },
+    {
+        "id": "5ef3ae51b23c9b5a",
+        "type": "change",
+        "z": "785f53d943d8482e",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "url",
+                "pt": "msg",
+                "to": "settings.settings.url_registry",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "choice",
+                "pt": "msg",
+                "to": "choice",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 940,
+        "y": 140,
+        "wires": [
+            [
+                "eac376bc5a94a23f"
+            ]
+        ]
+    },
+    {
+        "id": "eac376bc5a94a23f",
+        "type": "python3-function",
+        "z": "785f53d943d8482e",
+        "name": "req plants",
+        "func": "msg['url']=msg['url']+\"/plants\"\nreturn msg",
+        "outputs": 1,
+        "x": 1160,
+        "y": 140,
+        "wires": [
+            [
+                "611762fb62a1d588"
+            ]
+        ]
+    },
+    {
+        "id": "611762fb62a1d588",
+        "type": "http request",
+        "z": "785f53d943d8482e",
+        "name": "Req plants",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 1170,
+        "y": 220,
+        "wires": [
+            [
+                "8963c19c879e3fd7"
+            ]
+        ]
+    },
+    {
+        "id": "8963c19c879e3fd7",
+        "type": "function",
+        "z": "785f53d943d8482e",
+        "name": "UserFetcher",
+        "func": "msg.user = global.get(\"user\");\n//msg.plants=global.get(\"plants\")\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1350,
+        "y": 220,
+        "wires": [
+            [
+                "b71d9070a0f6399f"
+            ]
+        ]
+    },
+    {
+        "id": "205746116f4c2e47",
+        "type": "ui_text_input",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "",
+        "label": "Plant code:",
+        "tooltip": "Insert the code on the vase (ex. AA000)",
+        "group": "a82a07a6313512b6",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "mode": "text",
+        "delay": 300,
+        "topic": "code",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "str",
+        "x": 1090,
+        "y": 360,
+        "wires": [
+            [
+                "dd6200c65eacd514"
+            ]
+        ]
+    },
+    {
+        "id": "d2997b320dbc147d",
+        "type": "ui_dropdown",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "",
+        "label": "Select plant type from list",
+        "tooltip": "Select the category that better reflect your plant",
+        "place": "Select plant type from list",
+        "group": "a82a07a6313512b6",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "multiple": false,
+        "options": [],
+        "payload": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "className": "",
+        "x": 1130,
+        "y": 300,
+        "wires": [
+            [
+                "881f8f2d6597c088"
+            ]
+        ]
+    },
+    {
+        "id": "a8923480b36f5932",
+        "type": "ui_text_input",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "",
+        "label": "Plant name:",
+        "tooltip": "Can't contain the following ' ', ':', '/', ';', ',', '\"', \"'\", \"{\", \"}\", \"[\", \"]\"",
+        "group": "a82a07a6313512b6",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "mode": "text",
+        "delay": 300,
+        "topic": "plantId",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "str",
+        "x": 1090,
+        "y": 440,
+        "wires": [
+            [
+                "b5f8d6462425d98d"
+            ]
+        ]
+    },
+    {
+        "id": "aee5b849fa4bfac7",
+        "type": "python3-function",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "Set plant info",
+        "func": "#msg['payload']={\n#    \"code\": msg[\"code\"],\n#    \"plantId\": msg[\"new_plantId\"],\n#    \"plant_type\": msg[\"plant_type\"]\n#};\n#plants_list=msg['plant_list']\n#new_plant=msg['new_plantId']\n#result=0\n#if new_plant and msg['code'] and msg['plant_type']:\n#    for plant in plants_list:\n#        if plant['plantId']==new_plant:\n#            result=1\n#            msg['payload']=\"The chosen plant id is alredy registered in your plant list\"\n#            break\n#else:\n#    result=2\n            \n#if result==0:\nmsg['payload']={'userId':msg['user'],'plantId':msg[\"new_plantId\"],\"plantCode\":msg[\"code\"],\"type\":msg[\"plant_type\"]}\n    \n#msg['result']=result\nreturn msg",
+        "outputs": 1,
+        "x": 870,
+        "y": 480,
+        "wires": [
+            [
+                "2f3bc360bc7fb70a"
+            ]
+        ]
+    },
+    {
+        "id": "dd6200c65eacd514",
+        "type": "change",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "code",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1270,
+        "y": 360,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b5f8d6462425d98d",
+        "type": "change",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "new_plantId",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1300,
+        "y": 440,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "881f8f2d6597c088",
+        "type": "change",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "plant_type",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1390,
+        "y": 300,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c95bca5680e5e288",
+        "type": "function",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "Fetch new plant info",
+        "func": "msg.user = global.get(\"user\")\nmsg.new_plantId=flow.get(\"new_plantId\")\nmsg.code=flow.get(\"code\")\nmsg.plant_type = flow.get(\"plant_type\")\n//msg.plant_list=global.get(\"plants\")\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 340,
+        "y": 480,
+        "wires": [
+            [
+                "d20fab234f28a810"
+            ]
+        ]
+    },
+    {
+        "id": "ddd5fbd4061ad912",
+        "type": "ui_button",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "Submit button",
+        "group": "a82a07a6313512b6",
+        "order": 6,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "Submit",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 120,
+        "y": 480,
+        "wires": [
+            [
+                "c95bca5680e5e288"
+            ]
+        ]
+    },
+    {
+        "id": "2f3bc360bc7fb70a",
+        "type": "http request",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "Add plant",
+        "method": "POST",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "http://192.68.0.24:8081/addp",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 1060,
+        "y": 500,
+        "wires": [
+            [
+                "aac34bcadb7ff94d"
+            ]
+        ]
+    },
+    {
+        "id": "4b6db7c16dc843c8",
+        "type": "switch",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "",
+        "property": "result",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            },
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1390,
+        "y": 500,
+        "wires": [
+            [
+                "5b3afc0e1e29be08"
+            ],
+            [
+                "c36357bdb5531f78"
+            ]
+        ]
+    },
+    {
+        "id": "5b3afc0e1e29be08",
+        "type": "ui_toast",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "position": "dialog",
+        "displayTime": "5",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "Succesful add",
+        "x": 1580,
+        "y": 420,
+        "wires": [
+            [
+                "e8a626f925e2d1b4"
+            ]
+        ]
+    },
+    {
+        "id": "c36357bdb5531f78",
+        "type": "ui_toast",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "failed",
+        "x": 1530,
+        "y": 540,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "aac34bcadb7ff94d",
+        "type": "python3-function",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "Plant sub res",
+        "func": "response=msg['payload']\nsub_status=response['status']\n\nif sub_status == \"OK\":\n    result=1\n    msg['payload']=\"Plant was added to list. Devices will soon be registred, refresh page if you don't see them\"\n    \nelse:\n    result=0\n    msg['payload']=\"Could not add plant to list. Try again\"\nmsg['result']=result\nreturn msg",
+        "outputs": 1,
+        "x": 1230,
+        "y": 500,
+        "wires": [
+            [
+                "4b6db7c16dc843c8"
+            ]
+        ]
+    },
+    {
+        "id": "68126b66041a1b9f",
+        "type": "change",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "Forget current info",
+        "rules": [
+            {
+                "t": "delete",
+                "p": "code",
+                "pt": "flow"
+            },
+            {
+                "t": "delete",
+                "p": "new_plantId",
+                "pt": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2010,
+        "y": 420,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e8a626f925e2d1b4",
+        "type": "python3-function",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "Exit page",
+        "func": "msg['payload']={'tab': 'Plant status',\n    \"tabs\": {\n        \"hide\": 'Plant registration',\n        \"show\": 'Plant status'\n    }}\nreturn msg;",
+        "outputs": 1,
+        "x": 1820,
+        "y": 420,
+        "wires": [
+            [
+                "68126b66041a1b9f",
+                "3ae00d22074667a5"
+            ]
+        ]
+    },
+    {
+        "id": "3ae00d22074667a5",
+        "type": "ui_ui_control",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "Return to log in",
+        "events": "change",
+        "x": 2000,
+        "y": 500,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f72fae14d274ddfc",
+        "type": "ui_toast",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "Error message",
+        "x": 860,
+        "y": 540,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9b853bd5ed23df61",
+        "type": "ui_button",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "",
+        "group": "a82a07a6313512b6",
+        "order": 5,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "Back",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 90,
+        "y": 660,
+        "wires": [
+            [
+                "e63f7e3449184563"
+            ]
+        ]
+    },
+    {
+        "id": "e63f7e3449184563",
+        "type": "python3-function",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "Go to plant status",
+        "func": "msg['payload']={'tab': 'Plant status',\n    \"tabs\": {\n        \"hide\": 'Plant registration',\n        \"show\": 'Plant status'\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "x": 270,
+        "y": 660,
+        "wires": [
+            [
+                "b4ef7ff50fe64395"
+            ]
+        ]
+    },
+    {
+        "id": "b4ef7ff50fe64395",
+        "type": "ui_ui_control",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "",
+        "events": "all",
+        "x": 460,
+        "y": 660,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "972185aac73aa389",
+        "type": "ui_dropdown",
+        "z": "d8e05e37459eb50e",
+        "g": "fe9e7ffa346a55af",
+        "name": "Choose plant to delete",
+        "label": "Select a plant to delete from this list",
+        "tooltip": "",
+        "place": "Select option",
+        "group": "2a8f5bc0a956d188",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "multiple": false,
+        "options": [],
+        "payload": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "className": "",
+        "x": 620,
+        "y": 840,
+        "wires": [
+            [
+                "baceeb4063def798",
+                "33fb36433d73acb5"
+            ]
+        ]
+    },
+    {
+        "id": "6283ac5c609cf6b8",
+        "type": "python3-function",
+        "z": "d8e05e37459eb50e",
+        "g": "fe9e7ffa346a55af",
+        "name": "Read users plants",
+        "func": "import json\n\nplants=msg.get(\"plants\")\n #palce holder\n#importante dire options se no non capisce\nmsg['options']=[]\nfor plant in plants:\n    msg['options'].append(plant['plantId'])\n    \n\nreturn msg",
+        "outputs": 1,
+        "x": 390,
+        "y": 840,
+        "wires": [
+            [
+                "972185aac73aa389"
+            ]
+        ]
+    },
+    {
+        "id": "f4f1ac82e233983a",
+        "type": "ui_toast",
+        "z": "d8e05e37459eb50e",
+        "g": "fe9e7ffa346a55af",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "Cancel",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "First question",
+        "x": 1720,
+        "y": 840,
+        "wires": [
+            [
+                "08678b0a13896242"
+            ]
+        ]
+    },
+    {
+        "id": "b60a0b5f8bb62b28",
+        "type": "python3-function",
+        "z": "d8e05e37459eb50e",
+        "g": "fe9e7ffa346a55af",
+        "name": "1 Dialog delete plant",
+        "func": "msg['payload']=\"You have selected a plant to delete. Do you want to continue?\"\nreturn msg",
+        "outputs": 1,
+        "x": 1480,
+        "y": 840,
+        "wires": [
+            [
+                "f4f1ac82e233983a"
+            ]
+        ]
+    },
+    {
+        "id": "aeedd48828e6154f",
+        "type": "python3-function",
+        "z": "d8e05e37459eb50e",
+        "g": "fe9e7ffa346a55af",
+        "name": "2 Dialog delete account",
+        "func": "msg['payload']=\"This will imply the deletion of your plant infomation in Rootypy. Do you uderstand?\"\nreturn msg",
+        "outputs": 1,
+        "x": 2110,
+        "y": 840,
+        "wires": [
+            [
+                "9e8083a45bdbc457"
+            ]
+        ]
+    },
+    {
+        "id": "9e8083a45bdbc457",
+        "type": "ui_toast",
+        "z": "d8e05e37459eb50e",
+        "g": "fe9e7ffa346a55af",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "I understand",
+        "cancel": "Cancel",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "Last question",
+        "x": 2370,
+        "y": 840,
+        "wires": [
+            [
+                "d613dabea3643ff2"
+            ]
+        ]
+    },
+    {
+        "id": "d1f8db1188c99689",
+        "type": "http request",
+        "z": "d8e05e37459eb50e",
+        "g": "fe9e7ffa346a55af",
+        "name": "Req plant deletion",
+        "method": "DELETE",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 790,
+        "y": 920,
+        "wires": [
+            [
+                "2923488f1268056b"
+            ]
+        ]
+    },
+    {
+        "id": "9009d2fc832a6650",
+        "type": "python3-function",
+        "z": "d8e05e37459eb50e",
+        "g": "fe9e7ffa346a55af",
+        "name": "Produce deletion url",
+        "func": "user=msg['user']\nplantCode=msg['plant_to_delete']['plantCode']\nmsg['url']=f\"{msg['url']}/rmp/{user}/{plantCode}\"\nreturn msg",
+        "outputs": 1,
+        "x": 560,
+        "y": 920,
+        "wires": [
+            [
+                "d1f8db1188c99689"
+            ]
+        ]
+    },
+    {
+        "id": "2923488f1268056b",
+        "type": "python3-function",
+        "z": "d8e05e37459eb50e",
+        "g": "fe9e7ffa346a55af",
+        "name": "Deletion result",
+        "func": "response=msg['payload']\ndeletion_status=response['status']\nif deletion_status == \"OK\":\n    result=1\n    msg['payload']=\"Plant deletion was successful\"\n    \nelse:\n    result=0\n    msg['payload']=\"Deletion refused, please try again\"\nmsg['result']=result\nreturn msg",
+        "outputs": 1,
+        "x": 1020,
+        "y": 920,
+        "wires": [
+            [
+                "4a10853dfb86da80"
+            ]
+        ]
+    },
+    {
+        "id": "4a10853dfb86da80",
+        "type": "switch",
+        "z": "d8e05e37459eb50e",
+        "g": "fe9e7ffa346a55af",
+        "name": "",
+        "property": "result",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            },
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1190,
+        "y": 920,
+        "wires": [
+            [
+                "1061a660338c3c8b"
+            ],
+            [
+                "596c6fd6b6363856"
+            ]
+        ]
+    },
+    {
+        "id": "1061a660338c3c8b",
+        "type": "ui_toast",
+        "z": "d8e05e37459eb50e",
+        "g": "fe9e7ffa346a55af",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "Succesful deletion",
+        "x": 1390,
+        "y": 900,
+        "wires": [
+            [
+                "d9427fc637f97056"
+            ]
+        ]
+    },
+    {
+        "id": "596c6fd6b6363856",
+        "type": "ui_toast",
+        "z": "d8e05e37459eb50e",
+        "g": "fe9e7ffa346a55af",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "Deletion failed",
+        "x": 1380,
+        "y": 960,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d9427fc637f97056",
+        "type": "python3-function",
+        "z": "d8e05e37459eb50e",
+        "g": "fe9e7ffa346a55af",
+        "name": "Exit page",
+        "func": "msg['payload']={'tab': 'Plant status',\n    \"tabs\": {\n        \"hide\": 'Plant deletion',\n        \"show\": 'Plant status'\n    }}\nreturn msg;",
+        "outputs": 1,
+        "x": 1580,
+        "y": 900,
+        "wires": [
+            [
+                "bf0271361f3611e3",
+                "648567d6b13c3f30"
+            ]
+        ]
+    },
+    {
+        "id": "bf0271361f3611e3",
+        "type": "ui_ui_control",
+        "z": "d8e05e37459eb50e",
+        "g": "fe9e7ffa346a55af",
+        "name": "Return to status",
+        "events": "change",
+        "x": 1880,
+        "y": 900,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "648567d6b13c3f30",
+        "type": "link out",
+        "z": "d8e05e37459eb50e",
+        "g": "fe9e7ffa346a55af",
+        "name": "link out 4",
+        "mode": "link",
+        "links": [
+            "3fc5788391be0480"
+        ],
+        "x": 1735,
+        "y": 940,
+        "wires": []
+    },
+    {
+        "id": "33fb36433d73acb5",
+        "type": "debug",
+        "z": "d8e05e37459eb50e",
+        "g": "fe9e7ffa346a55af",
+        "name": "debug 17",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 580,
+        "y": 800,
+        "wires": []
+    },
+    {
+        "id": "e6986e9ff084f672",
+        "type": "ui_button",
+        "z": "d8e05e37459eb50e",
+        "g": "fe9e7ffa346a55af",
+        "name": "",
+        "group": "2a8f5bc0a956d188",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Back",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 110,
+        "y": 980,
+        "wires": [
+            [
+                "34b2f3e9edb87c0c"
+            ]
+        ]
+    },
+    {
+        "id": "34b2f3e9edb87c0c",
+        "type": "python3-function",
+        "z": "d8e05e37459eb50e",
+        "g": "fe9e7ffa346a55af",
+        "name": "Go to plant status",
+        "func": "msg['payload']={'tab': 'Plant status',\n    \"tabs\": {\n        \"hide\": 'Plant deletion',\n        \"show\": 'Plant status'\n    }\n}\nreturn msg;",
+        "outputs": 1,
+        "x": 290,
+        "y": 980,
+        "wires": [
+            [
+                "8362bfe5ede10fa6"
+            ]
+        ]
+    },
+    {
+        "id": "8362bfe5ede10fa6",
+        "type": "ui_ui_control",
+        "z": "d8e05e37459eb50e",
+        "g": "fe9e7ffa346a55af",
+        "name": "",
+        "events": "all",
+        "x": 480,
+        "y": 980,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "38200b3c9a499f10",
+        "type": "ui_button",
+        "z": "d8e05e37459eb50e",
+        "g": "ae0aa142fe4b8c55",
+        "name": "Delete account",
+        "group": "c846bf76c8606a05",
+        "order": 7,
+        "width": 5,
+        "height": 1,
+        "passthru": false,
+        "label": "Delete account",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "fa-frown-o",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 120,
+        "y": 100,
+        "wires": [
+            [
+                "6917a559296c136b"
+            ]
+        ]
+    },
+    {
+        "id": "ba4f1927460ba5d3",
+        "type": "ui_toast",
+        "z": "d8e05e37459eb50e",
+        "g": "ae0aa142fe4b8c55",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "Cancel",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "First question",
+        "x": 580,
+        "y": 100,
+        "wires": [
+            [
+                "553f26cc2b246d9b"
+            ]
+        ]
+    },
+    {
+        "id": "6917a559296c136b",
+        "type": "python3-function",
+        "z": "d8e05e37459eb50e",
+        "g": "ae0aa142fe4b8c55",
+        "name": "1 Dialog delete account",
+        "func": "msg['payload']=\"You have selected the deletion of the account\\nDo you want to continue?\"\nreturn msg",
+        "outputs": 1,
+        "x": 350,
+        "y": 100,
+        "wires": [
+            [
+                "ba4f1927460ba5d3"
+            ]
+        ]
+    },
+    {
+        "id": "a4f21654570ffbc1",
+        "type": "python3-function",
+        "z": "d8e05e37459eb50e",
+        "g": "ae0aa142fe4b8c55",
+        "name": "2 Dialog delete account",
+        "func": "msg['payload']=\"This will imply the deletion of your infomation in Rootypy.\\nDo you uderstand?\"\nreturn msg",
+        "outputs": 1,
+        "x": 930,
+        "y": 100,
+        "wires": [
+            [
+                "2bb4b8523a447533"
+            ]
+        ]
+    },
+    {
+        "id": "2bb4b8523a447533",
+        "type": "ui_toast",
+        "z": "d8e05e37459eb50e",
+        "g": "ae0aa142fe4b8c55",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "I understand",
+        "cancel": "Cancel",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "Last question",
+        "x": 1150,
+        "y": 100,
+        "wires": [
+            [
+                "9b515e7a7a54c3e7"
+            ]
+        ]
+    },
+    {
+        "id": "097ea17c93278929",
+        "type": "http request",
+        "z": "d8e05e37459eb50e",
+        "g": "ae0aa142fe4b8c55",
+        "name": "Req user deletion",
+        "method": "DELETE",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 550,
+        "y": 160,
+        "wires": [
+            [
+                "c7579521f90149a4",
+                "a1d56d1552642ef8"
+            ]
+        ]
+    },
+    {
+        "id": "fd272948bd036f4c",
+        "type": "python3-function",
+        "z": "d8e05e37459eb50e",
+        "g": "ae0aa142fe4b8c55",
+        "name": "Produce deletion url",
+        "func": "user=msg['user']\nmsg['url']=f\"{msg['url']}/rmu/{user}\"\nreturn msg",
+        "outputs": 1,
+        "x": 340,
+        "y": 160,
+        "wires": [
+            [
+                "097ea17c93278929"
+            ]
+        ]
+    },
+    {
+        "id": "c7579521f90149a4",
+        "type": "debug",
+        "z": "d8e05e37459eb50e",
+        "g": "ae0aa142fe4b8c55",
+        "name": "debug 13",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 740,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "a1d56d1552642ef8",
+        "type": "python3-function",
+        "z": "d8e05e37459eb50e",
+        "g": "ae0aa142fe4b8c55",
+        "name": "Deletion result",
+        "func": "response=msg['payload']\ndeletion_status=response['status']\nif deletion_status == \"OK\":\n    result=1\n    msg['payload']=\"Account deletion was successful\"\n    \nelse:\n    result=0\n    msg['payload']=\"Deletion refused, please try again\"\nmsg['result']=result\nreturn msg",
+        "outputs": 1,
+        "x": 760,
+        "y": 160,
+        "wires": [
+            [
+                "d00f853f7ce95464"
+            ]
+        ]
+    },
+    {
+        "id": "d00f853f7ce95464",
+        "type": "switch",
+        "z": "d8e05e37459eb50e",
+        "g": "ae0aa142fe4b8c55",
+        "name": "",
+        "property": "result",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            },
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 910,
+        "y": 160,
+        "wires": [
+            [
+                "be7763dc40d34ad8"
+            ],
+            [
+                "05462e3fba4c6eaa"
+            ]
+        ]
+    },
+    {
+        "id": "be7763dc40d34ad8",
+        "type": "ui_toast",
+        "z": "d8e05e37459eb50e",
+        "g": "ae0aa142fe4b8c55",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "Succesful deletion",
+        "x": 1110,
+        "y": 160,
+        "wires": [
+            [
+                "bccb1aa841524783"
+            ]
+        ]
+    },
+    {
+        "id": "bccb1aa841524783",
+        "type": "python3-function",
+        "z": "d8e05e37459eb50e",
+        "g": "ae0aa142fe4b8c55",
+        "name": "Exit page",
+        "func": "msg['payload']={'tab': 'Access',\n    \"tabs\": {\n        \"hide\": 'Plant status',\n        \"show\": 'Access'\n    }}\nreturn msg;",
+        "outputs": 1,
+        "x": 1300,
+        "y": 160,
+        "wires": [
+            [
+                "b4c0554f5747405f",
+                "0864d2d36012f7a7"
+            ]
+        ]
+    },
+    {
+        "id": "b4c0554f5747405f",
+        "type": "ui_ui_control",
+        "z": "d8e05e37459eb50e",
+        "g": "ae0aa142fe4b8c55",
+        "name": "Return to log in",
+        "events": "change",
+        "x": 1540,
+        "y": 160,
+        "wires": [
+            [
+                "0d083e036d14f5fb"
+            ]
+        ]
+    },
+    {
+        "id": "0864d2d36012f7a7",
+        "type": "change",
+        "z": "d8e05e37459eb50e",
+        "g": "ae0aa142fe4b8c55",
+        "name": "Forget current info",
+        "rules": [
+            {
+                "t": "delete",
+                "p": "user",
+                "pt": "global"
+            },
+            {
+                "t": "delete",
+                "p": "choice",
+                "pt": "global"
+            },
+            {
+                "t": "delete",
+                "p": "plants",
+                "pt": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1570,
+        "y": 120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "05462e3fba4c6eaa",
+        "type": "ui_toast",
+        "z": "d8e05e37459eb50e",
+        "g": "ae0aa142fe4b8c55",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "Deletion failed",
+        "x": 1100,
+        "y": 200,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0d083e036d14f5fb",
+        "type": "link out",
+        "z": "d8e05e37459eb50e",
+        "g": "ae0aa142fe4b8c55",
+        "name": "link out 2",
+        "mode": "link",
+        "links": [
+            "4f8c68064609087b",
+            "07c10727c5973eea"
+        ],
+        "x": 1695,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "76a9b599909d3fc8",
+        "type": "link in",
+        "z": "d8e05e37459eb50e",
+        "g": "fe9e7ffa346a55af",
+        "name": "Deletion",
+        "links": [
+            "e73397e7a65b2d9c"
+        ],
+        "x": 185,
+        "y": 800,
+        "wires": [
+            [
+                "2f0cfd438fd87152"
+            ]
+        ]
+    },
+    {
+        "id": "725d4a493984679c",
+        "type": "link out",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "From add plant",
+        "mode": "link",
+        "links": [],
+        "x": 1715,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "18da918892bddce2",
+        "type": "change",
+        "z": "d8e05e37459eb50e",
+        "g": "fe9e7ffa346a55af",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "url",
+                "pt": "msg",
+                "to": "settings.settings.url_registry",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 350,
+        "y": 920,
+        "wires": [
+            [
+                "9009d2fc832a6650"
+            ]
+        ]
+    },
+    {
+        "id": "2f0cfd438fd87152",
+        "type": "change",
+        "z": "d8e05e37459eb50e",
+        "g": "fe9e7ffa346a55af",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "plants",
+                "pt": "msg",
+                "to": "plants",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 180,
+        "y": 840,
+        "wires": [
+            [
+                "6283ac5c609cf6b8"
+            ]
+        ]
+    },
+    {
+        "id": "baceeb4063def798",
+        "type": "change",
+        "z": "d8e05e37459eb50e",
+        "g": "fe9e7ffa346a55af",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "plant_to_delete",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "user",
+                "pt": "msg",
+                "to": "user",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "plants",
+                "pt": "msg",
+                "to": "plants",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 860,
+        "y": 840,
+        "wires": [
+            [
+                "65ce55230ef0af1a"
+            ]
+        ]
+    },
+    {
+        "id": "65ce55230ef0af1a",
+        "type": "python3-function",
+        "z": "d8e05e37459eb50e",
+        "g": "fe9e7ffa346a55af",
+        "name": "Read users plants",
+        "func": "import json\nuser=msg['user']\nplants=msg[\"plants\"]\n #palce holder\n#importante dire options se no non capisce\nptd=msg[\"plant_to_delete\"]\nfor plant in plants:\n    if plant['plantId']==ptd:\n        msg[\"plant_to_delete\"]=plant\n        break\n    \n    \n\nreturn msg",
+        "outputs": 1,
+        "x": 1210,
+        "y": 840,
+        "wires": [
+            [
+                "b60a0b5f8bb62b28"
+            ]
+        ]
+    },
+    {
+        "id": "9b04a441f222c5b5",
+        "type": "change",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 880,
+        "y": 400,
+        "wires": [
+            [
+                "a8923480b36f5932",
+                "205746116f4c2e47"
+            ]
+        ]
+    },
+    {
+        "id": "d20fab234f28a810",
+        "type": "python3-function",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "Check validity",
+        "func": "import re\n\nspecial_characters = {' ', ':', '/', ';', ',', '\"', \"'\", \"{\", \"}\", \"[\", \"]\"}\nmsg[\"result\"] = 0\n\nrequired_keys = ['code', 'new_plantId', 'plant_type']\nmissing_keys = [key for key in required_keys if key not in msg]\n\nif missing_keys:\n    msg[\"result\"] = 4\n    msg['payload'] = f\"Missing required keys: {', '.join(missing_keys)}\"\nelse:\n    if len(msg['new_plantId']) == 0 or len(msg['plant_type']) == 0 or len(msg['code']) == 0:\n        msg[\"result\"] = 1\n        msg['payload'] = \"All the informations need to be filled\"\n    else:\n        code = msg['code']\n        regex = r'^[A-Z]{2}\\d{3}$'\n        if not re.match(regex, code):\n            msg['payload'] = \"Invalid code format\"\n            msg['result'] = 2\n        elif any(char in special_characters for char in msg['new_plantId']):\n            msg['result'] = 3\n            msg['payload'] = f\"Plant name can't contain {special_characters}\"\n\nreturn msg\n",
+        "outputs": 1,
+        "x": 540,
+        "y": 480,
+        "wires": [
+            [
+                "d52ba22ad87bd43b"
+            ]
+        ]
+    },
+    {
+        "id": "d52ba22ad87bd43b",
+        "type": "switch",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "",
+        "property": "result",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            },
+            {
+                "t": "neq",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 690,
+        "y": 480,
+        "wires": [
+            [
+                "aee5b849fa4bfac7",
+                "9b04a441f222c5b5"
+            ],
+            [
+                "f72fae14d274ddfc"
+            ]
+        ]
+    },
+    {
+        "id": "08678b0a13896242",
+        "type": "switch",
+        "z": "d8e05e37459eb50e",
+        "g": "fe9e7ffa346a55af",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Cancel",
+                "vt": "str"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1910,
+        "y": 820,
+        "wires": [
+            [],
+            [
+                "aeedd48828e6154f"
+            ]
+        ]
+    },
+    {
+        "id": "d613dabea3643ff2",
+        "type": "switch",
+        "z": "d8e05e37459eb50e",
+        "g": "fe9e7ffa346a55af",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Cancel",
+                "vt": "str"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 2550,
+        "y": 820,
+        "wires": [
+            [],
+            [
+                "18da918892bddce2"
+            ]
+        ]
+    },
+    {
+        "id": "553f26cc2b246d9b",
+        "type": "switch",
+        "z": "d8e05e37459eb50e",
+        "g": "ae0aa142fe4b8c55",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Cancel",
+                "vt": "str"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 730,
+        "y": 100,
+        "wires": [
+            [],
+            [
+                "a4f21654570ffbc1"
+            ]
+        ]
+    },
+    {
+        "id": "9b515e7a7a54c3e7",
+        "type": "switch",
+        "z": "d8e05e37459eb50e",
+        "g": "ae0aa142fe4b8c55",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Cancel",
+                "vt": "str"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1330,
+        "y": 100,
+        "wires": [
+            [],
+            [
+                "53f52b60e7f2d3a4"
+            ]
+        ]
+    },
+    {
+        "id": "39a9451eda1333c1",
+        "type": "link in",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "To plantType selection",
+        "links": [
+            "a841450211115ca7"
+        ],
+        "x": 55,
+        "y": 300,
+        "wires": [
+            [
+                "fc73b3126d9de4a9"
+            ]
+        ]
+    },
+    {
+        "id": "fc73b3126d9de4a9",
+        "type": "change",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "url",
+                "pt": "msg",
+                "to": "settings.settings.url_registry",
+                "tot": "global"
+            },
+            {
+                "t": "delete",
+                "p": "payload",
+                "pt": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 180,
+        "y": 300,
+        "wires": [
+            [
+                "ded0127bd1ea067c"
+            ]
+        ]
+    },
+    {
+        "id": "ded0127bd1ea067c",
+        "type": "python3-function",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "Produce url valid types",
+        "func": "msg[\"url\"]=msg[\"url\"]+\"/valid_plant_types\"\nreturn msg",
+        "outputs": 1,
+        "x": 400,
+        "y": 300,
+        "wires": [
+            [
+                "8990fc281601b01d"
+            ]
+        ]
+    },
+    {
+        "id": "8990fc281601b01d",
+        "type": "http request",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "Get valid plant types",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 640,
+        "y": 300,
+        "wires": [
+            [
+                "7bab5d2d56cf4653"
+            ]
+        ]
+    },
+    {
+        "id": "7bab5d2d56cf4653",
+        "type": "python3-function",
+        "z": "d8e05e37459eb50e",
+        "g": "1167eb289c340144",
+        "name": "produce types options",
+        "func": "types=msg['payload']\nmsg['options']=[]\nfor ptype in types:\n    msg['options'].append(ptype['type'])\nreturn msg",
+        "outputs": 1,
+        "x": 880,
+        "y": 300,
+        "wires": [
+            [
+                "d2997b320dbc147d"
+            ]
+        ]
+    },
+    {
+        "id": "53f52b60e7f2d3a4",
+        "type": "change",
+        "z": "d8e05e37459eb50e",
+        "g": "ae0aa142fe4b8c55",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "user",
+                "pt": "msg",
+                "to": "user",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "url",
+                "pt": "msg",
+                "to": "settings.settings.url_registry",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 120,
+        "y": 160,
+        "wires": [
+            [
+                "fd272948bd036f4c"
+            ]
+        ]
+    },
+    {
+        "id": "89d8170855e00a85",
+        "type": "http request",
+        "z": "420e20ab72977e1d",
+        "name": "Req Current light intensity",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 1470,
+        "y": 180,
+        "wires": [
+            [
+                "f7ad0fe66826f279",
+                "86b97cad19a3dc11"
+            ]
+        ]
+    },
+    {
+        "id": "8c3f811257f65389",
+        "type": "ui_gauge",
+        "z": "420e20ab72977e1d",
+        "name": "Lamp intensity",
+        "group": "43a5a58f83248d8e",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Light intensity",
+        "label": "% of lamp intensity",
+        "format": "{{msg.payload}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#464805",
+            "#e6bf00",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 2000,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "6398c855d8034302",
+        "type": "ui_text",
+        "z": "420e20ab72977e1d",
+        "group": "43a5a58f83248d8e",
+        "order": 8,
+        "width": 3,
+        "height": 1,
+        "name": "curr mode start",
+        "label": "Current start",
+        "format": "{{msg.init}}",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1000,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "0bae189c167b0ff7",
+        "type": "ui_text",
+        "z": "420e20ab72977e1d",
+        "group": "43a5a58f83248d8e",
+        "order": 10,
+        "width": 3,
+        "height": 1,
+        "name": "curr mode end ",
+        "label": "Current end",
+        "format": "{{msg.end}}",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1000,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "e4dd6fe5aea494e0",
+        "type": "ui_button",
+        "z": "420e20ab72977e1d",
+        "name": "submit mode change",
+        "group": "43a5a58f83248d8e",
+        "order": 14,
+        "width": 4,
+        "height": 1,
+        "passthru": false,
+        "label": "Submit changes",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "fa-lightbulb-o",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 280,
+        "y": 1040,
+        "wires": [
+            [
+                "92451cd4e5017c9b"
+            ]
+        ]
+    },
+    {
+        "id": "85dd9d09709aaeac",
+        "type": "ui_text",
+        "z": "420e20ab72977e1d",
+        "group": "43a5a58f83248d8e",
+        "order": 4,
+        "width": 3,
+        "height": 1,
+        "name": "Current mode",
+        "label": "Current mode:",
+        "format": "{{msg.state}}",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1000,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "92451cd4e5017c9b",
+        "type": "function",
+        "z": "420e20ab72977e1d",
+        "name": "Fetch settings",
+        "func": "msg.plant=global.get(\"selected_plant\")\nmsg.start = flow.get(\"start\")\nmsg.end = flow.get(\"end\")\nmsg.state=flow.get('state')\nmsg.intensity=flow.get(\"new_light_int\")\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 480,
+        "y": 1040,
+        "wires": [
+            [
+                "f341eca5d347c3bc"
+            ]
+        ]
+    },
+    {
+        "id": "f7ad0fe66826f279",
+        "type": "python3-function",
+        "z": "420e20ab72977e1d",
+        "name": "take last intensity mesure",
+        "func": "if len(msg['payload'])>0:\n    msg['payload']=msg['payload'][-1][\"v\"]\nelse:\n    msg['payload']=\"Initializing plant...\"\nreturn msg",
+        "outputs": 1,
+        "x": 1750,
+        "y": 200,
+        "wires": [
+            [
+                "8c3f811257f65389"
+            ]
+        ]
+    },
+    {
+        "id": "b47b4a9db824169d",
+        "type": "python3-function",
+        "z": "420e20ab72977e1d",
+        "name": "Show current options",
+        "func": "plant=msg['selected_plant']\nmsg['state']=plant['state']\nif plant['state']=='auto':\n    msg[\"init\"]=plant['auto_init']\n    msg[\"end\"]=plant['auto_end']\nelse:\n    msg[\"init\"]=plant['manual_init']\n    msg[\"end\"]=plant['manual_end']\nreturn msg",
+        "outputs": 1,
+        "x": 560,
+        "y": 420,
+        "wires": [
+            [
+                "85dd9d09709aaeac",
+                "6398c855d8034302",
+                "0bae189c167b0ff7"
+            ]
+        ]
+    },
+    {
+        "id": "4d7b3b1b65b0b588",
+        "type": "python3-function",
+        "z": "420e20ab72977e1d",
+        "name": "ProduceBody",
+        "func": "msg['payload']={\"plantCode\":msg['plant']['plantCode'],\n    'state':msg['state'],\n    'init':msg['start'],\n    'end':msg['end']\n    }\nmsg['url']=msg['url']+\"/updateInterval\"\nreturn msg",
+        "outputs": 1,
+        "x": 2280,
+        "y": 800,
+        "wires": [
+            [
+                "81642fe28e93f375"
+            ]
+        ]
+    },
+    {
+        "id": "98016c850354edb7",
+        "type": "python3-function",
+        "z": "420e20ab72977e1d",
+        "name": "Message mqtt to UV light",
+        "func": "import time\nif msg['state']==\"auto\":\n    msg['start']=time.time()\n    msg[\"end\"]= time.time()+10\n\n\nlamp = { \"bn\": \"ModeChange\",\"e\": [\n        {\n            \"n\": \"current_intensity\",\n            \"u\": \"percentage\",\n            \"t\": \"None\",\n            \"v\": msg['intensity']\n        },\n        {\n            \"n\": \"init_hour\",\n            \"u\": \"s\",\n            \"t\": \"None\",\n            \"v\": msg['start']\n        },\n        {\n            \"n\": \"final_hour\",\n            \"u\": \"s\",\n            \"t\": \"None\",\n            \"v\": msg['end']\n        }\n    ]\n}\n\nmsg['payload']=lamp\n    \nmsg['topic']=f\"RootyPy/{msg['plant']['userId']}/{msg['plant']['plantCode']}/lux_to_give/manual\"\nreturn msg",
+        "outputs": 1,
+        "x": 2370,
+        "y": 900,
+        "wires": [
+            [
+                "c8254cbb0ab04454",
+                "7d03e4cb2097ad99"
+            ]
+        ]
+    },
+    {
+        "id": "a2c2dd59c6fa85b0",
+        "type": "change",
+        "z": "420e20ab72977e1d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "url",
+                "pt": "msg",
+                "to": "settings.settings.url_registry",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2110,
+        "y": 800,
+        "wires": [
+            [
+                "4d7b3b1b65b0b588"
+            ]
+        ]
+    },
+    {
+        "id": "81642fe28e93f375",
+        "type": "http request",
+        "z": "420e20ab72977e1d",
+        "name": "Req interval update",
+        "method": "PUT",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 2470,
+        "y": 800,
+        "wires": [
+            [
+                "8e2501885ffcd3bf"
+            ]
+        ]
+    },
+    {
+        "id": "c8254cbb0ab04454",
+        "type": "mqtt out",
+        "z": "420e20ab72977e1d",
+        "name": "Send to Uv_light_shift",
+        "topic": "",
+        "qos": "2",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "8957198026b47e18",
+        "x": 2660,
+        "y": 860,
+        "wires": []
+    },
+    {
+        "id": "d44fc004e3cda8e6",
+        "type": "ui_toast",
+        "z": "420e20ab72977e1d",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "",
+        "x": 2910,
+        "y": 800,
+        "wires": []
+    },
+    {
+        "id": "8e2501885ffcd3bf",
+        "type": "python3-function",
+        "z": "420e20ab72977e1d",
+        "name": "Message reader",
+        "func": "msg['payload']=msg['payload']['message']\nreturn msg",
+        "outputs": 1,
+        "x": 2680,
+        "y": 800,
+        "wires": [
+            [
+                "d44fc004e3cda8e6",
+                "4ceec963bc87e85e"
+            ]
+        ]
+    },
+    {
+        "id": "86b97cad19a3dc11",
+        "type": "debug",
+        "z": "420e20ab72977e1d",
+        "name": "debug 34",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1720,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "d083bd287d0dd92b",
+        "type": "python3-function",
+        "z": "420e20ab72977e1d",
+        "name": "convert from node-red time format",
+        "func": "import datetime\n\n# Il timestamp fornito\nstart = msg['start']\nend = msg['end']\n\n# Convertire il timestamp da millisecondi a secondi\nstart = start / 1000\nend = end / 1000\n# Convertire il timestamp in un oggetto datetime\ndate_start = datetime.datetime.utcfromtimestamp(start)\ndate_end = datetime.datetime.utcfromtimestamp(end)\n\n# Estrarre l'ora dall'oggetto datetime\nmsg['start'] = date_start.strftime('%H:%M')\nmsg['end'] = date_end.strftime('%H:%M')\nreturn msg",
+        "outputs": 1,
+        "x": 1860,
+        "y": 800,
+        "wires": [
+            [
+                "a2c2dd59c6fa85b0"
+            ]
+        ]
+    },
+    {
+        "id": "4ceec963bc87e85e",
+        "type": "link out",
+        "z": "420e20ab72977e1d",
+        "name": "From light settings selection",
+        "mode": "link",
+        "links": [
+            "c138598e6bb2c9f8"
+        ],
+        "x": 2825,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "7d03e4cb2097ad99",
+        "type": "debug",
+        "z": "420e20ab72977e1d",
+        "name": "debug 35",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 2660,
+        "y": 960,
+        "wires": []
+    },
+    {
+        "id": "f5c5f3b3caaaccf2",
+        "type": "python3-function",
+        "z": "420e20ab72977e1d",
+        "name": "Check if AutoMode is available",
+        "func": "result=0\nif msg[\"state\"]==\"auto\":\n    light_settings=msg['settings']['settings']['light']\n    serv_needed=light_settings[\"AutoMode\"]['services']\n    dev_needed=light_settings[\"AutoMode\"]['devices']\n    on_serv = [s[\"serviceID\"] for s in msg[\"services_online\"]]\n    on_dev = [d for d in msg[\"devices_online\"]]\n    snot=[]\n    dnot=[]\n    \n    \n    \n    for serv in serv_needed:\n        if serv not in on_serv:\n            snot.append(serv)\n            result=1\n            \n            \n    for dev in dev_needed:\n        if dev not in on_dev:\n            dnot.append(dev)\n            result=1\n            msg['dnot']=dnot\n    \n    msg['snot']=snot\n    msg['dnot']=dnot\nmsg['result']=result\n\nreturn msg",
+        "outputs": 1,
+        "x": 1450,
+        "y": 1000,
+        "wires": [
+            [
+                "28131d2e1e722ef0"
+            ]
+        ]
+    },
+    {
+        "id": "f341eca5d347c3bc",
+        "type": "change",
+        "z": "420e20ab72977e1d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "services_online",
+                "pt": "msg",
+                "to": "services_online",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "devices_online",
+                "pt": "msg",
+                "to": "devices_online",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "settings",
+                "pt": "msg",
+                "to": "settings",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 680,
+        "y": 1040,
+        "wires": [
+            [
+                "1d1d826c02d6453b"
+            ]
+        ]
+    },
+    {
+        "id": "1d1d826c02d6453b",
+        "type": "python3-function",
+        "z": "420e20ab72977e1d",
+        "name": "Check if mode change is possible",
+        "func": "light_settings=msg['settings']['settings']['light']\nserv_needed=light_settings[\"changeMode\"]['services']\ndev_needed=light_settings[\"changeMode\"]['devices']\nservices_online=msg['services_online']\non_serv = [s[\"serviceID\"] for s in services_online]\non_dev = [d for d in msg[\"devices_online\"]]\nsnot=[]\ndnot=[]\n    \nresult=0\n    \nfor serv in serv_needed:\n    if serv not in on_serv:\n        snot.append(serv)\n        result=1\n        \n            \nfor dev in dev_needed:\n    if dev not in on_dev:\n        dnot.append(dev)\n        result=1\n        \n\nif msg['start']>msg[\"end\"]:\n    result=2\n\nmsg['snot']=snot\nmsg['dnot']=dnot\nmsg['result']=result\n\nreturn msg",
+        "outputs": 1,
+        "x": 940,
+        "y": 1040,
+        "wires": [
+            [
+                "d8b453e70b756137"
+            ]
+        ]
+    },
+    {
+        "id": "d8b453e70b756137",
+        "type": "switch",
+        "z": "420e20ab72977e1d",
+        "name": "",
+        "property": "result",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            },
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            },
+            {
+                "t": "eq",
+                "v": "2",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 3,
+        "x": 1190,
+        "y": 1040,
+        "wires": [
+            [
+                "f5c5f3b3caaaccf2"
+            ],
+            [
+                "6d00d92c9d608559"
+            ],
+            [
+                "c7fdf8068e4040c6"
+            ]
+        ]
+    },
+    {
+        "id": "6d00d92c9d608559",
+        "type": "python3-function",
+        "z": "420e20ab72977e1d",
+        "name": "Message change not possible",
+        "func": "msg['payload']=f\"Cannot change mode:\\n services: {msg['snot']} and devices: {msg['dnot']} are offline\"\nreturn msg",
+        "outputs": 1,
+        "x": 1450,
+        "y": 1080,
+        "wires": [
+            [
+                "6f87fe155d034d5d"
+            ]
+        ]
+    },
+    {
+        "id": "6f87fe155d034d5d",
+        "type": "ui_toast",
+        "z": "420e20ab72977e1d",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "",
+        "x": 1690,
+        "y": 1080,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "28131d2e1e722ef0",
+        "type": "switch",
+        "z": "420e20ab72977e1d",
+        "name": "",
+        "property": "result",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1670,
+        "y": 940,
+        "wires": [
+            [
+                "d083bd287d0dd92b",
+                "775d7697efa8fb02"
+            ],
+            [
+                "3dd7774f3a7a4def"
+            ]
+        ]
+    },
+    {
+        "id": "5961656a0840a4f7",
+        "type": "ui_toast",
+        "z": "420e20ab72977e1d",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "",
+        "x": 2230,
+        "y": 1060,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3dd7774f3a7a4def",
+        "type": "python3-function",
+        "z": "420e20ab72977e1d",
+        "name": "Message auto not avilable",
+        "func": "msg['payload']=f\"Cannot set auto mode:\\n services: {msg['snot']} and devices: {msg['dnot']} are offline\"\nreturn msg",
+        "outputs": 1,
+        "x": 1930,
+        "y": 1060,
+        "wires": [
+            [
+                "5961656a0840a4f7"
+            ]
+        ]
+    },
+    {
+        "id": "638aa34ef980f782",
+        "type": "python3-function",
+        "z": "420e20ab72977e1d",
+        "name": "produce current intensity url",
+        "func": "userId=msg['selected_plant']['userId']\nplantCode=msg['selected_plant']['plantCode']\nmsg['url']=f\"{msg['url']}/getData/{userId}/{plantCode}?measurament=current_intensity&duration=1\"\nreturn msg\nreturn msg",
+        "outputs": 1,
+        "x": 1200,
+        "y": 180,
+        "wires": [
+            [
+                "89d8170855e00a85"
+            ]
+        ]
+    },
+    {
+        "id": "5890db760b78aa32",
+        "type": "change",
+        "z": "420e20ab72977e1d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "manual",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 600,
+        "y": 580,
+        "wires": [
+            [
+                "9ecff4a9bbcab68d"
+            ]
+        ]
+    },
+    {
+        "id": "8fe2c4200c4ff5da",
+        "type": "ui_switch",
+        "z": "420e20ab72977e1d",
+        "name": "",
+        "label": "",
+        "tooltip": "manual<=>auto",
+        "group": "43a5a58f83248d8e",
+        "order": 6,
+        "width": 1,
+        "height": 1,
+        "passthru": false,
+        "decouple": "false",
+        "topic": "state",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "auto",
+        "onvalueType": "str",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "manual",
+        "offvalueType": "str",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 570,
+        "y": 640,
+        "wires": [
+            [
+                "9ecff4a9bbcab68d"
+            ]
+        ]
+    },
+    {
+        "id": "8272ab9f2f83aa74",
+        "type": "ui_text_input",
+        "z": "420e20ab72977e1d",
+        "name": "new start time",
+        "label": "Starting time:",
+        "tooltip": "",
+        "group": "43a5a58f83248d8e",
+        "order": 9,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "mode": "time",
+        "delay": 300,
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 600,
+        "y": 700,
+        "wires": [
+            [
+                "7bb1cc7570e9db50"
+            ]
+        ]
+    },
+    {
+        "id": "8d762e03adc6fd2b",
+        "type": "ui_text_input",
+        "z": "420e20ab72977e1d",
+        "name": "new end time",
+        "label": "Ending time:",
+        "tooltip": "",
+        "group": "43a5a58f83248d8e",
+        "order": 11,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "mode": "time",
+        "delay": 300,
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 590,
+        "y": 740,
+        "wires": [
+            [
+                "c808d4da1f3baa46"
+            ]
+        ]
+    },
+    {
+        "id": "7bb1cc7570e9db50",
+        "type": "change",
+        "z": "420e20ab72977e1d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "start",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 830,
+        "y": 700,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c808d4da1f3baa46",
+        "type": "change",
+        "z": "420e20ab72977e1d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "end",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 830,
+        "y": 740,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c3419924c6639675",
+        "type": "ui_slider",
+        "z": "420e20ab72977e1d",
+        "name": "",
+        "label": "Light intensity picker",
+        "tooltip": "",
+        "group": "43a5a58f83248d8e",
+        "order": 12,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "outs": "end",
+        "topic": "topic",
+        "topicType": "msg",
+        "min": 0,
+        "max": "100",
+        "step": "5",
+        "className": "",
+        "x": 620,
+        "y": 800,
+        "wires": [
+            [
+                "77eabf19191bd999"
+            ]
+        ]
+    },
+    {
+        "id": "77eabf19191bd999",
+        "type": "change",
+        "z": "420e20ab72977e1d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "new_light_int",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 860,
+        "y": 800,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9ecff4a9bbcab68d",
+        "type": "change",
+        "z": "420e20ab72977e1d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "state",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 750,
+        "y": 640,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2843ab6368109d23",
+        "type": "change",
+        "z": "420e20ab72977e1d",
+        "name": "",
+        "rules": [
+            {
+                "t": "delete",
+                "p": "start",
+                "pt": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 700,
+        "wires": [
+            [
+                "8272ab9f2f83aa74"
+            ]
+        ]
+    },
+    {
+        "id": "e9cecb49144f315a",
+        "type": "change",
+        "z": "420e20ab72977e1d",
+        "name": "",
+        "rules": [
+            {
+                "t": "delete",
+                "p": "end",
+                "pt": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 740,
+        "wires": [
+            [
+                "8d762e03adc6fd2b"
+            ]
+        ]
+    },
+    {
+        "id": "5a5d0da0b0965eef",
+        "type": "change",
+        "z": "420e20ab72977e1d",
+        "name": "",
+        "rules": [
+            {
+                "t": "delete",
+                "p": "new_light_int",
+                "pt": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 370,
+        "y": 800,
+        "wires": [
+            [
+                "c3419924c6639675"
+            ]
+        ]
+    },
+    {
+        "id": "d268ef55be3836a8",
+        "type": "python3-function",
+        "z": "420e20ab72977e1d",
+        "name": "Check if lampStatus is available",
+        "func": "light_settings=msg['settings']['settings']['light']\nserv_needed=light_settings[\"lampStatus\"]['services']\ndev_needed=light_settings[\"lampStatus\"]['devices']\nservices_online=msg['services_online']\non_serv = [s[\"serviceID\"] for s in services_online]\ndevices_online=msg['devices_online']\non_dev = [d for d in devices_online]\nsnot=[]\ndnot=[]\n    \nresult=0\n    \nfor serv in serv_needed:\n    if serv not in on_serv:\n        snot.append(serv)\n        result=1\n        \n            \nfor dev in dev_needed:\n    if dev not in on_dev:\n        dnot.append(dev)\n        result=1\n        \nmsg['result']=result\nmsg['snot']=snot\nmsg['dnot']=dnot\nreturn msg",
+        "outputs": 1,
+        "x": 650,
+        "y": 240,
+        "wires": [
+            [
+                "f4a8f8021dfe41d9"
+            ]
+        ]
+    },
+    {
+        "id": "40a31a1f8b6051d8",
+        "type": "link in",
+        "z": "420e20ab72977e1d",
+        "name": "To settings light",
+        "links": [
+            "5e3ae2132d1e778b"
+        ],
+        "x": 135,
+        "y": 420,
+        "wires": [
+            [
+                "5890db760b78aa32",
+                "2843ab6368109d23",
+                "e9cecb49144f315a",
+                "d268ef55be3836a8",
+                "b47b4a9db824169d",
+                "c5991bea75570ab8"
+            ]
+        ]
+    },
+    {
+        "id": "4d97c702b361be26",
+        "type": "ui_toast",
+        "z": "420e20ab72977e1d",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "",
+        "x": 1450,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "5f4960799a66de51",
+        "type": "python3-function",
+        "z": "420e20ab72977e1d",
+        "name": "Message lamp offline",
+        "func": "msg['payload']=f\"Cannot access lamp intensity:\\n services: {msg['snot']} and devices: {msg['dnot']} are offline\"\nreturn msg",
+        "outputs": 1,
+        "x": 1100,
+        "y": 300,
+        "wires": [
+            [
+                "4d97c702b361be26"
+            ]
+        ]
+    },
+    {
+        "id": "f4a8f8021dfe41d9",
+        "type": "switch",
+        "z": "420e20ab72977e1d",
+        "name": "",
+        "property": "result",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 890,
+        "y": 240,
+        "wires": [
+            [
+                "c58844b3d167d16d"
+            ],
+            [
+                "5f4960799a66de51"
+            ]
+        ]
+    },
+    {
+        "id": "b1689ffddadb8693",
+        "type": "debug",
+        "z": "420e20ab72977e1d",
+        "name": "debug 42",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 580,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "c58844b3d167d16d",
+        "type": "change",
+        "z": "420e20ab72977e1d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "url",
+                "pt": "msg",
+                "to": "adaptor.route",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 970,
+        "y": 180,
+        "wires": [
+            [
+                "638aa34ef980f782"
+            ]
+        ]
+    },
+    {
+        "id": "c5991bea75570ab8",
+        "type": "change",
+        "z": "420e20ab72977e1d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "0",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 320,
+        "y": 880,
+        "wires": [
+            [
+                "77eabf19191bd999"
+            ]
+        ]
+    },
+    {
+        "id": "2832b373d356b66a",
+        "type": "ui_text",
+        "z": "420e20ab72977e1d",
+        "group": "43a5a58f83248d8e",
+        "order": 3,
+        "width": 3,
+        "height": 1,
+        "name": "Text of mode",
+        "label": "",
+        "format": "Change lamp settings:",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": 16,
+        "color": "#00ff2a",
+        "x": 750,
+        "y": 940,
+        "wires": []
+    },
+    {
+        "id": "775d7697efa8fb02",
+        "type": "python3-function",
+        "z": "420e20ab72977e1d",
+        "name": "convert from node-red time format to unix",
+        "func": "from datetime import datetime, time\n\n# Il timestamp fornito\nstart = msg['start']\nend = msg['end']\n\n#secods\nstart_s = start / 1000\nend_s = end / 1000\n#hours\nstart_h=int(start_s//3600)\nend_h=int(end_s//3600)\n#minutes\nstart_m=int((start_s % 3600)//60)\nend_m=int((end_s % 3600)//60)\n\ncurrent_date=datetime.today().date()\n\ncombined_start=time(hour=start_h,minute=start_m)\ncombined_end=time(hour=end_h,minute=end_m)\n\ncombined_date_time_start=datetime.combine(current_date,combined_start)\ncombined_date_time_end=datetime.combine(current_date,combined_end)\n\nunix_start=int(combined_date_time_start.timestamp())\nunix_end=int(combined_date_time_end.timestamp())\n\n# Estrarre l'ora dall'oggetto datetime\nmsg['start'] = unix_start\nmsg['end'] = unix_end\n\n\nreturn msg",
+        "outputs": 1,
+        "x": 2020,
+        "y": 900,
+        "wires": [
+            [
+                "98016c850354edb7"
+            ]
+        ]
+    },
+    {
+        "id": "c7fdf8068e4040c6",
+        "type": "python3-function",
+        "z": "420e20ab72977e1d",
+        "name": "Message change not possible",
+        "func": "msg['payload']=f\"Starting hour cannot be after the final\"\nreturn msg",
+        "outputs": 1,
+        "x": 1430,
+        "y": 1160,
+        "wires": [
+            [
+                "cefd57bd59534426"
+            ]
+        ]
+    },
+    {
+        "id": "cefd57bd59534426",
+        "type": "ui_toast",
+        "z": "420e20ab72977e1d",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "",
+        "x": 1650,
+        "y": 1160,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3c937eade10b213f",
+        "type": "ui_text",
+        "z": "420e20ab72977e1d",
+        "group": "43a5a58f83248d8e",
+        "order": 2,
+        "width": 3,
+        "height": 1,
+        "name": "user current settings",
+        "label": "",
+        "format": "Current settings:",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": 16,
+        "color": "#030303",
+        "x": 770,
+        "y": 1176,
+        "wires": []
+    },
+    {
+        "id": "64405ecb62f47883",
+        "type": "ui_text",
+        "z": "420e20ab72977e1d",
+        "group": "43a5a58f83248d8e",
+        "order": 5,
+        "width": 1,
+        "height": 1,
+        "name": "User awareness manual",
+        "label": "",
+        "format": "M",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": 16,
+        "color": "#045ff1",
+        "x": 770,
+        "y": 1260,
+        "wires": []
+    },
+    {
+        "id": "5da32f8049b46198",
+        "type": "ui_text",
+        "z": "420e20ab72977e1d",
+        "group": "43a5a58f83248d8e",
+        "order": 7,
+        "width": 1,
+        "height": 1,
+        "name": "User awareness auto",
+        "label": "",
+        "format": "A",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": 16,
+        "color": "#f10404",
+        "x": 760,
+        "y": 1300,
+        "wires": []
+    },
+    {
+        "id": "e9be20f99306515c",
+        "type": "ui_text",
+        "z": "7345f09d639edea5",
+        "group": "b6795e559d1e41a6",
+        "order": 2,
+        "width": 6,
+        "height": 1,
+        "name": "",
+        "label": "",
+        "format": "Give water to plant:",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 630,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "8fb57b83c5e956ab",
+        "type": "link in",
+        "z": "7345f09d639edea5",
+        "name": "To water settings",
+        "links": [
+            "5e3ae2132d1e778b"
+        ],
+        "x": 215,
+        "y": 500,
+        "wires": [
+            [
+                "a9c70035f721a831",
+                "1c327e2d486e2325",
+                "1fc8487fa4784598"
+            ]
+        ]
+    },
+    {
+        "id": "cad2787850369310",
+        "type": "change",
+        "z": "7345f09d639edea5",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "services_online",
+                "pt": "msg",
+                "to": "services_online",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "devices_online",
+                "pt": "msg",
+                "to": "devices_online",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "settings",
+                "pt": "msg",
+                "to": "settings",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1100,
+        "y": 700,
+        "wires": [
+            [
+                "a0b1ede0c0cb2102"
+            ]
+        ]
+    },
+    {
+        "id": "a0b1ede0c0cb2102",
+        "type": "python3-function",
+        "z": "7345f09d639edea5",
+        "name": "Check if manual watering is possible",
+        "func": "light_settings=msg['settings']['settings']['water']\nserv_needed=light_settings[\"giveWaterButton\"]['services']\ndev_needed=light_settings[\"giveWaterButton\"]['devices']\nservices_online=msg['services_online']\non_serv = [s[\"serviceID\"] for s in services_online]\non_dev = [d for d in msg[\"devices_online\"]]\nsnot=[]\ndnot=[]\n    \nresult=0\n    \nfor serv in serv_needed:\n    if serv not in on_serv:\n        snot.append(serv)\n        result=1\n        \n            \nfor dev in dev_needed:\n    if dev not in on_dev:\n        dnot.append(dev)\n        result=1\n        \nmsg['snot']=snot\nmsg['dnot']=dnot\nmsg['result']=result\n\nreturn msg",
+        "outputs": 1,
+        "x": 1370,
+        "y": 700,
+        "wires": [
+            [
+                "de88e05d41f3cd98"
+            ]
+        ]
+    },
+    {
+        "id": "a9c70035f721a831",
+        "type": "python3-function",
+        "z": "7345f09d639edea5",
+        "name": "Check if tankLevel is available",
+        "func": "light_settings=msg['settings']['settings']['water']\nserv_needed=light_settings[\"TankLevel\"]['services']\ndev_needed=light_settings[\"TankLevel\"]['devices']\nservices_online=msg['services_online']\non_serv = [s[\"serviceID\"] for s in services_online]\ndevices_online=msg['devices_online']\non_dev = [d for d in devices_online]\nsnot=[]\ndnot=[]\n    \nresult=0\n    \nfor serv in serv_needed:\n    if serv not in on_serv:\n        snot.append(serv)\n        result=1\n        \n            \nfor dev in dev_needed:\n    if dev not in on_dev:\n        dnot.append(dev)\n        result=1\n        \nmsg['result']=result\nmsg['snot']=snot\nmsg['dnot']=dnot\nreturn msg",
+        "outputs": 1,
+        "x": 430,
+        "y": 500,
+        "wires": [
+            [
+                "942cdce5edca71a4"
+            ]
+        ]
+    },
+    {
+        "id": "942cdce5edca71a4",
+        "type": "switch",
+        "z": "7345f09d639edea5",
+        "name": "",
+        "property": "result",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 670,
+        "y": 500,
+        "wires": [
+            [
+                "e64d7ca4ddd28c87"
+            ],
+            [
+                "710eb1d369695107"
+            ]
+        ]
+    },
+    {
+        "id": "710eb1d369695107",
+        "type": "python3-function",
+        "z": "7345f09d639edea5",
+        "name": "Message tank offline",
+        "func": "msg['payload']=f\"Cannot access tankLevel:\\n services: {msg['snot']} and devices: {msg['dnot']} are offline\"\nreturn msg",
+        "outputs": 1,
+        "x": 880,
+        "y": 560,
+        "wires": [
+            [
+                "0caad220253eae4d"
+            ]
+        ]
+    },
+    {
+        "id": "0caad220253eae4d",
+        "type": "ui_toast",
+        "z": "7345f09d639edea5",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "",
+        "x": 1230,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "1ba764c815366fce",
+        "type": "http request",
+        "z": "7345f09d639edea5",
+        "name": "Req Current water volume left",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 1330,
+        "y": 460,
+        "wires": [
+            [
+                "aede93a8f44a3736",
+                "dc439443abaf28a7"
+            ]
+        ]
+    },
+    {
+        "id": "0d88e8ff2fe97fce",
+        "type": "ui_gauge",
+        "z": "7345f09d639edea5",
+        "name": "Tank level",
+        "group": "b6795e559d1e41a6",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Tank level",
+        "label": "% of water in tank",
+        "format": "{{msg.payload}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#edcf07",
+            "#00cbe6",
+            "#3a65cb"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 2000,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "1dfc53b719b81b5e",
+        "type": "python3-function",
+        "z": "7345f09d639edea5",
+        "name": "take last tank mesure",
+        "func": "if len(msg['payload'])>0:\n    current_level=msg['payload'][-1][\"v\"]\n    \n    model_of_sel_plant=msg['selected_plant'][\"plantCode\"][:2]\n    \n    for model in msg['models']:\n        if model['model_code']==model_of_sel_plant:\n            msg['payload']= round((current_level/model['tank_capacity'])*100)\n            break\n\nelse:\n    msg['payload']=\"Initializing plant...\"\nreturn msg",
+        "outputs": 1,
+        "x": 1800,
+        "y": 460,
+        "wires": [
+            [
+                "0d88e8ff2fe97fce",
+                "ae66ee8c596d2902"
+            ]
+        ]
+    },
+    {
+        "id": "aede93a8f44a3736",
+        "type": "debug",
+        "z": "7345f09d639edea5",
+        "name": "debug 43",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1420,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "e64d7ca4ddd28c87",
+        "type": "change",
+        "z": "7345f09d639edea5",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "url",
+                "pt": "msg",
+                "to": "adaptor.route",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 850,
+        "y": 460,
+        "wires": [
+            [
+                "de1661b1b2d5d76d"
+            ]
+        ]
+    },
+    {
+        "id": "de1661b1b2d5d76d",
+        "type": "python3-function",
+        "z": "7345f09d639edea5",
+        "name": "Produce url to adaptor",
+        "func": "userId=msg['selected_plant']['userId']\nplantCode=msg['selected_plant']['plantCode']\nmsg['url']=f\"{msg['url']}/getData/{userId}/{plantCode}?measurament=tankLevel&duration=1\"\nreturn msg",
+        "outputs": 1,
+        "x": 1060,
+        "y": 460,
+        "wires": [
+            [
+                "1ba764c815366fce"
+            ]
+        ]
+    },
+    {
+        "id": "dc439443abaf28a7",
+        "type": "change",
+        "z": "7345f09d639edea5",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "selected_plant",
+                "pt": "msg",
+                "to": "selected_plant",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "models",
+                "pt": "msg",
+                "to": "models",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1580,
+        "y": 460,
+        "wires": [
+            [
+                "1dfc53b719b81b5e"
+            ]
+        ]
+    },
+    {
+        "id": "ae66ee8c596d2902",
+        "type": "debug",
+        "z": "7345f09d639edea5",
+        "name": "debug 44",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 2000,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "1fc8487fa4784598",
+        "type": "ui_button",
+        "z": "7345f09d639edea5",
+        "name": "water button",
+        "group": "b6795e559d1e41a6",
+        "order": 5,
+        "width": 4,
+        "height": 1,
+        "passthru": false,
+        "label": "Water plant",
+        "tooltip": "Choose amount of tank to give and press button",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "fa-shower",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 590,
+        "y": 700,
+        "wires": [
+            [
+                "4e36043416898350"
+            ]
+        ]
+    },
+    {
+        "id": "4e36043416898350",
+        "type": "function",
+        "z": "7345f09d639edea5",
+        "name": "Fetch water settings",
+        "func": "msg.selected_plant=global.get(\"selected_plant\")\nmsg.amount = flow.get(\"water_to_give\")\nmsg.models=global.get(\"models\")\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 880,
+        "y": 700,
+        "wires": [
+            [
+                "cad2787850369310"
+            ]
+        ]
+    },
+    {
+        "id": "8cae2de20e3da97e",
+        "type": "python3-function",
+        "z": "7345f09d639edea5",
+        "name": "Message mqtt to water_irrigator",
+        "func": "import time\nmodel_of_sel_plant=msg['selected_plant'][\"plantCode\"][:2]\n    \nfor model in msg['models']:\n    if model['model_code']==model_of_sel_plant:\n        msg['amount']= (msg['amount']*model['tank_capacity'])/100\n        break\n\n\n\n\nirrigation = { \"bn\": \"ManualIrrigation\",\"e\": [\n        {\n            \"n\": \"Volume of water\",\n            \"u\": \"l\",\n            \"t\": time.time(),\n            \"v\": msg['amount']\n        }\n]}\nmsg['payload']=irrigation\n\n\n    \nmsg['topic']=f\"RootyPy/{msg['selected_plant']['userId']}/{msg['selected_plant']['plantCode']}/water_to_give/manual\"\nreturn msg",
+        "outputs": 1,
+        "x": 1890,
+        "y": 660,
+        "wires": [
+            [
+                "eec8c706e191cb25",
+                "ba1fe345e8c1505a",
+                "792bbad75aca354a"
+            ]
+        ]
+    },
+    {
+        "id": "eec8c706e191cb25",
+        "type": "mqtt out",
+        "z": "7345f09d639edea5",
+        "name": "Send to irrigator",
+        "topic": "",
+        "qos": "2",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "8957198026b47e18",
+        "x": 2160,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "ba1fe345e8c1505a",
+        "type": "debug",
+        "z": "7345f09d639edea5",
+        "name": "debug 45",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 2160,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "19c5e2b60f36e652",
+        "type": "ui_slider",
+        "z": "7345f09d639edea5",
+        "name": "",
+        "label": "% of water picker",
+        "tooltip": "",
+        "group": "b6795e559d1e41a6",
+        "order": 3,
+        "width": 6,
+        "height": 1,
+        "passthru": false,
+        "outs": "end",
+        "topic": "topic",
+        "topicType": "msg",
+        "min": "1",
+        "max": "10",
+        "step": "1",
+        "className": "",
+        "x": 890,
+        "y": 640,
+        "wires": [
+            [
+                "58c3940b2dcf8e5c"
+            ]
+        ]
+    },
+    {
+        "id": "58c3940b2dcf8e5c",
+        "type": "change",
+        "z": "7345f09d639edea5",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "water_to_give",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1120,
+        "y": 640,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1c327e2d486e2325",
+        "type": "change",
+        "z": "7345f09d639edea5",
+        "name": "",
+        "rules": [
+            {
+                "t": "delete",
+                "p": "water_to_give",
+                "pt": "flow"
+            },
+            {
+                "t": "delete",
+                "p": "payload",
+                "pt": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 600,
+        "y": 640,
+        "wires": [
+            [
+                "19c5e2b60f36e652"
+            ]
+        ]
+    },
+    {
+        "id": "304710e756a94a23",
+        "type": "ui_toast",
+        "z": "7345f09d639edea5",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "",
+        "x": 2130,
+        "y": 740,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1b03faf833bf850a",
+        "type": "python3-function",
+        "z": "7345f09d639edea5",
+        "name": "Message watering not possible",
+        "func": "msg['payload']=f\"Cannot water manually:\\n services: {msg['snot']} and devices: {msg['dnot']} are offline\"\nreturn msg",
+        "outputs": 1,
+        "x": 1890,
+        "y": 740,
+        "wires": [
+            [
+                "304710e756a94a23"
+            ]
+        ]
+    },
+    {
+        "id": "de88e05d41f3cd98",
+        "type": "switch",
+        "z": "7345f09d639edea5",
+        "name": "",
+        "property": "result",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1630,
+        "y": 700,
+        "wires": [
+            [
+                "8cae2de20e3da97e"
+            ],
+            [
+                "1b03faf833bf850a"
+            ]
+        ]
+    },
+    {
+        "id": "0c33da3532b2a21e",
+        "type": "ui_toast",
+        "z": "7345f09d639edea5",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "",
+        "x": 2220,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "792bbad75aca354a",
+        "type": "python3-function",
+        "z": "7345f09d639edea5",
+        "name": "user awareness",
+        "func": "msg['payload']=\"Watering command sent!\"\nreturn msg",
+        "outputs": 1,
+        "x": 1900,
+        "y": 580,
+        "wires": [
+            [
+                "d5129feb0f116564",
+                "0c33da3532b2a21e"
+            ]
+        ]
+    },
+    {
+        "id": "d5129feb0f116564",
+        "type": "link out",
+        "z": "7345f09d639edea5",
+        "name": "From watering plant",
+        "mode": "link",
+        "links": [
+            "c138598e6bb2c9f8"
+        ],
+        "x": 2185,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "1314dcec3ebab8b8",
+        "type": "inject",
+        "z": "8fa8102ddd6213f9",
+        "g": "e6c4aaa3566ad829",
+        "name": "Activate registration process",
+        "props": [
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "25",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 210,
+        "y": 260,
+        "wires": [
+            [
+                "3cdf817095039d1d",
+                "b96219db0aeefd29"
+            ]
+        ]
+    },
+    {
+        "id": "d3116a79dbd26d9f",
+        "type": "python3-function",
+        "z": "8fa8102ddd6213f9",
+        "name": "Take reg_url and connected services",
+        "func": "\nreturn msg",
+        "outputs": 1,
+        "x": 850,
+        "y": 60,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a1a60e9655d6f741",
+        "type": "mqtt out",
+        "z": "8fa8102ddd6213f9",
+        "g": "e6c4aaa3566ad829",
+        "name": "publish alive message",
+        "topic": "",
+        "qos": "2",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "8957198026b47e18",
+        "x": 720,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "46df1d3d9b00eac4",
+        "type": "change",
+        "z": "8fa8102ddd6213f9",
+        "g": "e6c4aaa3566ad829",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "services_online",
+                "pt": "global",
+                "to": "services_online",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "adaptor",
+                "pt": "global",
+                "to": "adaptor",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1420,
+        "y": 380,
+        "wires": [
+            [
+                "f64e64a2ef64c852"
+            ]
+        ]
+    },
+    {
+        "id": "7724a27acc619f9c",
+        "type": "function",
+        "z": "8fa8102ddd6213f9",
+        "g": "da60ea094f9fae74",
+        "name": "Fetch online service",
+        "func": "msg.services = global.get(\"services_online\")\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 180,
+        "y": 700,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b1339271bc549447",
+        "type": "switch",
+        "z": "8fa8102ddd6213f9",
+        "g": "da60ea094f9fae74",
+        "name": "Online/offline",
+        "property": "status",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "on",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "off",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 650,
+        "y": 700,
+        "wires": [
+            [
+                "ae03fc51560aae3c"
+            ],
+            [
+                "0f3a4304daa4ba5c",
+                "497c65e39dd230d8"
+            ]
+        ]
+    },
+    {
+        "id": "0f3a4304daa4ba5c",
+        "type": "python3-function",
+        "z": "8fa8102ddd6213f9",
+        "g": "da60ea094f9fae74",
+        "name": "Functionality disabler",
+        "func": "msg['enabled']=False\nreturn msg",
+        "outputs": 1,
+        "x": 880,
+        "y": 720,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ae03fc51560aae3c",
+        "type": "python3-function",
+        "z": "8fa8102ddd6213f9",
+        "g": "da60ea094f9fae74",
+        "name": "Functionality enabler",
+        "func": "msg['enabled']=True\nreturn msg",
+        "outputs": 1,
+        "x": 880,
+        "y": 660,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "497c65e39dd230d8",
+        "type": "ui_toast",
+        "z": "8fa8102ddd6213f9",
+        "g": "da60ea094f9fae74",
+        "position": "top left",
+        "displayTime": "5",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "Offline awareness",
+        "x": 870,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "40534a3910705aae",
+        "type": "debug",
+        "z": "8fa8102ddd6213f9",
+        "g": "e6c4aaa3566ad829",
+        "name": "debug 23",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 660,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "8b51178bff4916c9",
+        "type": "http request",
+        "z": "8fa8102ddd6213f9",
+        "g": "e6c4aaa3566ad829",
+        "name": "Req activated services to registry",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 860,
+        "y": 380,
+        "wires": [
+            [
+                "77cc26df612d1f54",
+                "d3dd0254ee70784d"
+            ]
+        ]
+    },
+    {
+        "id": "3cdf817095039d1d",
+        "type": "python3-function",
+        "z": "8fa8102ddd6213f9",
+        "g": "e6c4aaa3566ad829",
+        "name": "Registartion payload",
+        "func": "\nimport time\nmsg[\"topic\"]=\"RootyPy/node_red\"\nmsg[\"payload\"]={\"bn\":\"updateCatalogService\",\"e\":[{\"n\": \"node_red\", \"t\": time.time(), \"v\":None,\"u\":\"IP\"}]}\nreturn msg",
+        "outputs": 1,
+        "x": 480,
+        "y": 260,
+        "wires": [
+            [
+                "a1a60e9655d6f741",
+                "40534a3910705aae"
+            ]
+        ]
+    },
+    {
+        "id": "f2c2c453fc059f3f",
+        "type": "python3-function",
+        "z": "8fa8102ddd6213f9",
+        "g": "e6c4aaa3566ad829",
+        "name": "Ask active services to registry",
+        "func": "msg['url']=f\"{msg['url']}/services\"\nreturn msg",
+        "outputs": 1,
+        "x": 550,
+        "y": 380,
+        "wires": [
+            [
+                "8b51178bff4916c9"
+            ]
+        ]
+    },
+    {
+        "id": "77cc26df612d1f54",
+        "type": "debug",
+        "z": "8fa8102ddd6213f9",
+        "g": "e6c4aaa3566ad829",
+        "name": "debug 24",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1160,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "804517212092e655",
+        "type": "file in",
+        "z": "8fa8102ddd6213f9",
+        "name": "Read config",
+        "filename": "/data/config.json",
+        "filenameType": "str",
+        "format": "utf8",
+        "chunk": false,
+        "sendError": false,
+        "encoding": "none",
+        "allProps": false,
+        "x": 370,
+        "y": 140,
+        "wires": [
+            [
+                "0dad8219c7f65389",
+                "89f64dd593df2da9"
+            ]
+        ]
+    },
+    {
+        "id": "f5d2f512b44819a1",
+        "type": "inject",
+        "z": "8fa8102ddd6213f9",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 150,
+        "y": 140,
+        "wires": [
+            [
+                "804517212092e655",
+                "0dad8219c7f65389"
+            ]
+        ]
+    },
+    {
+        "id": "469329b326c67540",
+        "type": "change",
+        "z": "8fa8102ddd6213f9",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "settings",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 750,
+        "y": 140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0dad8219c7f65389",
+        "type": "debug",
+        "z": "8fa8102ddd6213f9",
+        "name": "debug 26",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 300,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "89f64dd593df2da9",
+        "type": "json",
+        "z": "8fa8102ddd6213f9",
+        "name": "",
+        "property": "payload",
+        "action": "obj",
+        "pretty": true,
+        "x": 550,
+        "y": 140,
+        "wires": [
+            [
+                "469329b326c67540"
+            ]
+        ]
+    },
+    {
+        "id": "f64e64a2ef64c852",
+        "type": "link out",
+        "z": "8fa8102ddd6213f9",
+        "g": "e6c4aaa3566ad829",
+        "name": "From online check",
+        "mode": "link",
+        "links": [
+            "12ac50748fb9d90b"
+        ],
+        "x": 1565,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "d3dd0254ee70784d",
+        "type": "python3-function",
+        "z": "8fa8102ddd6213f9",
+        "g": "e6c4aaa3566ad829",
+        "name": "divide services online from adaptor",
+        "func": "msg['services_online']=[]\nmsg['adaptor']=[]\nfor service in msg['payload']:\n    if service['serviceID']==\"adaptor\":\n        msg['adaptor']=service\n        msg['services_online'].append(service)\n    else:\n        msg['services_online'].append(service)\nreturn msg",
+        "outputs": 1,
+        "x": 1180,
+        "y": 380,
+        "wires": [
+            [
+                "46df1d3d9b00eac4"
+            ]
+        ]
+    },
+    {
+        "id": "b96219db0aeefd29",
+        "type": "change",
+        "z": "8fa8102ddd6213f9",
+        "g": "e6c4aaa3566ad829",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "url",
+                "pt": "msg",
+                "to": "settings.settings.url_registry",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 290,
+        "y": 380,
+        "wires": [
+            [
+                "f2c2c453fc059f3f",
+                "b5129cd372d50485"
+            ]
+        ]
+    },
+    {
+        "id": "b5129cd372d50485",
+        "type": "python3-function",
+        "z": "8fa8102ddd6213f9",
+        "name": "Ask models",
+        "func": "msg['url']=f\"{msg['url']}/models\"\nreturn msg",
+        "outputs": 1,
+        "x": 490,
+        "y": 460,
+        "wires": [
+            [
+                "6d4685ccd1907e29"
+            ]
+        ]
+    },
+    {
+        "id": "6d4685ccd1907e29",
+        "type": "http request",
+        "z": "8fa8102ddd6213f9",
+        "name": "Req models to registry",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 760,
+        "y": 460,
+        "wires": [
+            [
+                "8009ee6744d4cd61",
+                "8189296a7b778061"
+            ]
+        ]
+    },
+    {
+        "id": "8009ee6744d4cd61",
+        "type": "change",
+        "z": "8fa8102ddd6213f9",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "models",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1050,
+        "y": 460,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8189296a7b778061",
+        "type": "debug",
+        "z": "8fa8102ddd6213f9",
+        "name": "debug 40",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1000,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "ef054254640742d7",
+        "type": "ui_chart",
+        "z": "f2b7d1cdce5c4bfe",
+        "name": "Last DLI mesurements",
+        "group": "b13c842165b97de9",
+        "order": 1,
+        "width": 10,
+        "height": 5,
+        "label": "DLI mesurements",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "DLI mesures not yet produced",
+        "dot": false,
+        "ymin": "0",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "86400",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": true,
+        "colors": [
+            "#edfe67",
+            "#f2930d",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1200,
+        "y": 380,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "208073084ef84f6e",
+        "type": "http request",
+        "z": "f2b7d1cdce5c4bfe",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 770,
+        "y": 360,
+        "wires": [
+            [
+                "45777d880f5576dc",
+                "0b53aaab4d536dd5"
+            ]
+        ]
+    },
+    {
+        "id": "72721b0ff243e437",
+        "type": "change",
+        "z": "f2b7d1cdce5c4bfe",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "url",
+                "pt": "msg",
+                "to": "adaptor.route",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "selected_plant",
+                "pt": "msg",
+                "to": "selected_plant",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 360,
+        "wires": [
+            [
+                "4529fd5f59199167"
+            ]
+        ]
+    },
+    {
+        "id": "4529fd5f59199167",
+        "type": "python3-function",
+        "z": "f2b7d1cdce5c4bfe",
+        "name": "Url for chart",
+        "func": "msg['url']=f\"{msg['url']}/getData/{msg['selected_plant']['userId']}/{msg['selected_plant']['plantCode']}?measurament=DLI&duration=24\"\nreturn msg",
+        "outputs": 1,
+        "x": 590,
+        "y": 360,
+        "wires": [
+            [
+                "208073084ef84f6e"
+            ]
+        ]
+    },
+    {
+        "id": "fb1f65509cefabf3",
+        "type": "link in",
+        "z": "f2b7d1cdce5c4bfe",
+        "name": "To light chart",
+        "links": [
+            "26516ead26b4b223"
+        ],
+        "x": 255,
+        "y": 360,
+        "wires": [
+            [
+                "72721b0ff243e437"
+            ]
+        ]
+    },
+    {
+        "id": "45777d880f5576dc",
+        "type": "debug",
+        "z": "f2b7d1cdce5c4bfe",
+        "name": "debug 37",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 940,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "0b53aaab4d536dd5",
+        "type": "python3-function",
+        "z": "f2b7d1cdce5c4bfe",
+        "name": "",
+        "func": "\nlabels = []\ndata = []\ncumulative_data = []\ncumulative_sum = 0\nfor measure in msg['payload']:\n    labels.append(measure['t'])\n    data.append(round(measure['v'],2))\n    cumulative_sum += round(measure['v'],2)\n    cumulative_data.append(cumulative_sum)\n\nmsg['payload'] = [{\n    \"series\": [\"DLI per hour\",\"cumulative DLI\"],\n    \"data\": [data,cumulative_data],\n    \"labels\": labels\n}]\nreturn msg\n",
+        "outputs": 1,
+        "x": 970,
+        "y": 380,
+        "wires": [
+            [
+                "ef054254640742d7"
+            ]
+        ]
+    },
+    {
+        "id": "0f89cc51864af531",
+        "type": "ui_chart",
+        "z": "f2b7d1cdce5c4bfe",
+        "name": "Last moisture mesurements",
+        "group": "b13c842165b97de9",
+        "order": 2,
+        "width": 10,
+        "height": 5,
+        "label": "Moisture mesurements",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "Moisture mesures not yet produced",
+        "dot": false,
+        "ymin": "0",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "86400",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#67f4fe",
+            "#0d46f2",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1200,
+        "y": 620,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2d6c51c417979640",
+        "type": "http request",
+        "z": "f2b7d1cdce5c4bfe",
+        "name": "Req moisture",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 750,
+        "y": 600,
+        "wires": [
+            [
+                "4d25d2553827e264",
+                "5b609a22325c00e9"
+            ]
+        ]
+    },
+    {
+        "id": "1d6df921df50944e",
+        "type": "change",
+        "z": "f2b7d1cdce5c4bfe",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "url",
+                "pt": "msg",
+                "to": "adaptor.route",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "selected_plant",
+                "pt": "msg",
+                "to": "selected_plant",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 400,
+        "y": 600,
+        "wires": [
+            [
+                "c7e195251b7648e3"
+            ]
+        ]
+    },
+    {
+        "id": "c7e195251b7648e3",
+        "type": "python3-function",
+        "z": "f2b7d1cdce5c4bfe",
+        "name": "Url for chart",
+        "func": "msg['url']=f\"{msg['url']}/getData/{msg['selected_plant']['userId']}/{msg['selected_plant']['plantCode']}?measurament=moisture&duration=24\"\nreturn msg",
+        "outputs": 1,
+        "x": 570,
+        "y": 600,
+        "wires": [
+            [
+                "2d6c51c417979640"
+            ]
+        ]
+    },
+    {
+        "id": "1f61b805bc6bcfac",
+        "type": "link in",
+        "z": "f2b7d1cdce5c4bfe",
+        "name": "To light chart",
+        "links": [
+            "26516ead26b4b223"
+        ],
+        "x": 235,
+        "y": 600,
+        "wires": [
+            [
+                "1d6df921df50944e"
+            ]
+        ]
+    },
+    {
+        "id": "4d25d2553827e264",
+        "type": "debug",
+        "z": "f2b7d1cdce5c4bfe",
+        "name": "debug 46",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 920,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "5b609a22325c00e9",
+        "type": "python3-function",
+        "z": "f2b7d1cdce5c4bfe",
+        "name": "",
+        "func": "\nlabels = []\ndata = []\ncumulative_data = []\ncumulative_sum = 0\nfor measure in msg['payload']:\n    labels.append(measure['t'])\n    data.append(round(measure['v'],2))\n\nmsg['payload'] = [{\n    \"series\": [\"moisture\"],\n    \"data\": [data],\n    \"labels\": labels\n}]\nreturn msg\n",
+        "outputs": 1,
+        "x": 950,
+        "y": 620,
+        "wires": [
+            [
+                "0f89cc51864af531"
+            ]
+        ]
+    }
+]

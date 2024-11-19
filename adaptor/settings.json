@@ -1,0 +1,14 @@
+{
+    "brokerPort": 1883,
+    "base_topic": "RootyPy/#",
+    "messageBroker": "mqtt.eclipseprojects.io",
+    "url_db": "http://192.68.0.21:8086",
+    "influx_token": "56a2fc64e4b1ef0ee725f0e900a43eb511942d859dbbfa864e28adf029227938",
+    "influx_org": "rootyPi",
+    "adaptor_url": "http://192.68.0.25:8080",
+    "adaptor_port": 8080,
+    "registry_url": "http://192.68.0.24:8081",
+    "services4db": ["moisture", "sunlight", "lampLight", "light", "lightShift","current_intensity", "DLI", "tank","tankLevel"],
+    "alive_topic": "RootyPy/microservices/Adaptor",
+    "test": 1
+}

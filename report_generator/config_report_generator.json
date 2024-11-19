@@ -1,0 +1,18 @@
+{
+    "ID": "Report_generator",
+    "broker": "mqtt.eclipseprojects.io",
+    "port": 1883,
+    "url_registry" : "http://192.68.0.24:8081",
+    "myurl":"http://192.68.0.33:8081",
+    "alive_topic":"RootyPy/microservices/Report_generator",
+    "update_time":15,
+    "headers":{
+       "content-type":"application/json; charset=UTF-8"
+    },
+    "time_zone_correction":2,
+    "target_hour":15,
+    "target_minute":30,
+    "needed_urls": {
+      "adaptor":""
+    }
+ }

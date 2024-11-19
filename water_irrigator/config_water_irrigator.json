@@ -1,0 +1,14 @@
+{
+    "ID_water_pump": "waterPump",
+    "ID_Iamalive": "waterPump_Iamalive",
+    "broker": "mqtt.eclipseprojects.io",
+    "port": 1883,
+    "pub_topic_water_pump": null,
+    "sub_topics_water_pump": ["RootyPy/+/+/water_to_give/automatic","RootyPy/+/+/water_to_give/manual"],
+    "url_models": "http://192.68.0.24:8081/models",
+    "url_plants": "http://192.68.0.24:8081/plants",
+    "url_devices": "http://192.68.0.24:8081/devices",
+    "pub_topic_Iamalive": "RootyPy/microservices/waterPump",
+    "sub_topic_Iamalive": null,
+    "alive_interval": 15
+}

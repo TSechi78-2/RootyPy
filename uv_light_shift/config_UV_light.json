@@ -1,0 +1,16 @@
+{
+    "ID_light_shift": "lightShift",
+    "ID_Iamalive": "lightShift_alive",
+    "ID3": "dev3",
+    "broker": "mqtt.eclipseprojects.io",
+    "port": 1883,
+    "pub_topic_light_shift": null,
+    "sub_topics_light_shift": ["RootyPy/+/+/lux_to_give/automatic","RootyPy/+/+/lux_to_give/manual"],
+    "url_models": "http://192.68.0.24:8081/models",
+    "url_plants": "http://192.68.0.24:8081/plants",
+    "url_devices": "http://192.68.0.24:8081/devices",
+    "pub_topic_Iamalive": "RootyPy/microservices/lightShift",
+    "sub_topic_Iamalive": null,
+    "alive_interval": 15
+
+}

@@ -1,0 +1,20 @@
+{
+    "telegram_token":"token"
+    "ID": "telegram_bot",
+    "broker": "mqtt.eclipseprojects.io",
+    "port": 1883,
+    "report_sending_interval": 500,
+    "user_check_interval" : 10,
+    "user_inactivity_timer" : 600,
+    "url_registry" : "http://192.68.0.24:8081",
+    "iamalive_topic":"RootyPy/microservices/TelegramBot",
+    "update_time":15,
+    "time_zone_correction": -2,
+    "repeated_function_interval" : 5,
+    "number_of_requests": 15,
+    "sub_topics": ["RootyPy/report_generator/#","RootyPy/WaterTankAlert/#"],
+    "needed_urls":{
+        "adaptor": "",
+        "Report_generator":""
+    }
+}
